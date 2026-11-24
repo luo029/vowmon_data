@@ -1,6 +1,66 @@
 {
     "pets": [
         {
+            "id": "003",
+            "name": "古森鹿",
+            "types": [
+                "草"
+            ],
+            "stage": "三阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "eggGroup": "",
+            "rideable": "",
+            "height": 2.75,
+            "weight": 152.3,
+            "image": "sprites/003.png",
+            "shiny": [
+                "sprites/003_s.png"
+            ],
+            "description": "枝角承载着森林记忆，踏过之处，草木复苏。",
+            "stats": {
+                "hp": 79,
+                "atk": 85,
+                "def": 90,
+                "spAtk": 110,
+                "spDef": 110,
+                "spd": 75
+            }
+        },
+        {
+            "id": "002",
+            "name": "青青鹿",
+            "types": [
+                "草"
+            ],
+            "stage": "一阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "eggGroup": "",
+            "rideable": "",
+            "height": 1.05,
+            "weight": 22.6,
+            "image": "sprites/002.png",
+            "shiny": [
+                "sprites/002_s.png"
+            ],
+            "description": "枝叶随风摇曳，可释放催眠的花粉。",
+            "stats": {
+                "hp": 60,
+                "atk": 64,
+                "def": 64,
+                "spAtk": 85,
+                "spDef": 85,
+                "spd": 54
+            }
+        },
+        {
             "id": "001",
             "name": "叶芽鹿",
             "types": [
