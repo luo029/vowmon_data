@@ -1,6 +1,36 @@
 {
     "pets": [
         {
+            "id": "009",
+            "name": "沧水獭",
+            "types": [
+                "水"
+            ],
+            "stage": "三阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "eggGroup": "",
+            "rideable": "",
+            "height": 1.72,
+            "weight": 75.5,
+            "image": "sprites/009.png",
+            "shiny": [
+                "sprites/009_s.png"
+            ],
+            "description": "潜抱江海，不动而暗流自生。",
+            "stats": {
+                "hp": 85,
+                "atk": 89,
+                "def": 115,
+                "spAtk": 90,
+                "spDef": 115,
+                "spd": 55
+            }
+        },
+        {
             "id": "008",
             "name": "浪浪獭",
             "types": [
