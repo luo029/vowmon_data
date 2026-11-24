@@ -194,7 +194,7 @@
             "abilityEffect": "",
             "eggGroup": "",
             "rideable": "",
-            "height": 2.75,
+            "height": 2,
             "weight": 152.3,
             "image": "sprites/003.png",
             "shiny": [
@@ -257,9 +257,7 @@
             "height": 0.6,
             "weight": 7.2,
             "image": "sprites/001.png",
-            "shiny": [
-                "sprites/001_s.png"
-            ],
+            "shiny": [],
             "description": "以嫩叶感知周围，生气时会抖落叶片。",
             "stats": {
                 "hp": 45,
