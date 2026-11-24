@@ -1314,7 +1314,7 @@
   },
   "lore.c3": {
    "label": "元域演化史 · p #2",
-   "html": "\n            下面这些文字，辑录自散落在各界的<b>传世石板</b>。<br/>\n            石板之上刻着世界尚未被记住的模样——最初的元、三颗种子，以及从种子里长出来的整个元域。\n        "
+   "html": "\n            下面这些文字，辑录自散落在各界的<b>传世石板</b>。<br>\n            石板之上刻着世界尚未被记住的模样——<br>最初的元、三颗种子，以及从种子里长出来的整个元域。\n        "
   },
   "lore.c39": {
    "label": "元域演化史 · div #1",
@@ -1479,6 +1479,94 @@
   "lore.c37": {
    "label": "石板尾声 · div #6",
    "html": "—— 传世石板 · 尾声"
+  },
+  "ranks.c28": {
+   "label": "阶元权限总表 · span #7",
+   "html": "1-15"
+  },
+  "ranks.c33": {
+   "label": "阶元权限总表 · span #12",
+   "html": "16-36"
+  },
+  "ranks.c38": {
+   "label": "阶元权限总表 · span #17",
+   "html": "37-50"
+  },
+  "ranks.c43": {
+   "label": "阶元权限总表 · span #22",
+   "html": "51-60"
+  },
+  "ranks.c48": {
+   "label": "阶元权限总表 · span #27",
+   "html": "61-70"
+  },
+  "ranks.c53": {
+   "label": "阶元权限总表 · span #32",
+   "html": "71-89"
+  },
+  "ranks.c58": {
+   "label": "阶元权限总表 · span #37",
+   "html": "90-99"
+  },
+  "ranks.c63": {
+   "label": "阶元权限总表 · span #42",
+   "html": "100"
+  },
+  "trainers.c13": {
+   "label": "等级与契约对照表 · span #8",
+   "html": "1-15"
+  },
+  "trainers.c16": {
+   "label": "等级与契约对照表 · span #11",
+   "html": "初灵 1-15"
+  },
+  "trainers.c21": {
+   "label": "等级与契约对照表 · span #16",
+   "html": "16-35"
+  },
+  "trainers.c24": {
+   "label": "等级与契约对照表 · span #19",
+   "html": "升灵 16-36"
+  },
+  "trainers.c29": {
+   "label": "等级与契约对照表 · span #24",
+   "html": "36-50"
+  },
+  "trainers.c32": {
+   "label": "等级与契约对照表 · span #27",
+   "html": "族尊 37-50"
+  },
+  "trainers.c37": {
+   "label": "等级与契约对照表 · span #32",
+   "html": "51-60"
+  },
+  "trainers.c40": {
+   "label": "等级与契约对照表 · span #35",
+   "html": "基座 51-60"
+  },
+  "trainers.c45": {
+   "label": "等级与契约对照表 · span #40",
+   "html": "61-70"
+  },
+  "trainers.c48": {
+   "label": "等级与契约对照表 · span #43",
+   "html": "灵相 61-70"
+  },
+  "trainers.c53": {
+   "label": "等级与契约对照表 · span #48",
+   "html": "71-89"
+  },
+  "trainers.c56": {
+   "label": "等级与契约对照表 · span #51",
+   "html": "律冠 71-89"
+  },
+  "trainers.c61": {
+   "label": "等级与契约对照表 · span #56",
+   "html": "90-99"
+  },
+  "trainers.c64": {
+   "label": "等级与契约对照表 · span #59",
+   "html": "元灵 90-99"
   }
  }
 }
