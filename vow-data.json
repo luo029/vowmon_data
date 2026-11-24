@@ -1,6 +1,36 @@
 {
     "pets": [
         {
+            "id": "007",
+            "name": "水珠獭",
+            "types": [
+                "水"
+            ],
+            "stage": "一阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "eggGroup": "",
+            "rideable": "",
+            "height": 0.52,
+            "weight": 6,
+            "image": "sprites/007.png",
+            "shiny": [
+                "sprites/007_s.png"
+            ],
+            "description": "水叶耳朵能感知水流与水下震动。",
+            "stats": {
+                "hp": 50,
+                "atk": 48,
+                "def": 64,
+                "spAtk": 50,
+                "spDef": 64,
+                "spd": 42
+            }
+        },
+        {
             "id": "006",
             "name": "煌焰猫",
             "types": [
