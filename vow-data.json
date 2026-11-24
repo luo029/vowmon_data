@@ -1,6 +1,125 @@
 {
     "pets": [
         {
+            "id": "068",
+            "name": "武豪",
+            "types": [
+                "格斗"
+            ],
+            "stage": "三阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [
+                "067"
+            ],
+            "evoTo": [],
+            "eggGroup": "",
+            "rideable": "",
+            "height": 1.9,
+            "weight": 132,
+            "origin": "",
+            "image": "sprites/068.png",
+            "shiny": [
+                "sprites/068_s.png"
+            ],
+            "description": "武中豪杰，长年淬炼而成的角质甲坚如精钢，尾锤砸落之时，大地都会为之震颤。传闻它一拳便可轰碎巨岩，这片土地的武者都以与它交手为荣。",
+            "stats": {
+                "hp": 90,
+                "atk": 130,
+                "def": 80,
+                "spAtk": 65,
+                "spDef": 85,
+                "spd": 55
+            }
+        },
+        {
+            "id": "067",
+            "name": "武徒",
+            "types": [
+                "格斗"
+            ],
+            "stage": "二阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [
+                "066"
+            ],
+            "evoTo": [
+                "068"
+            ],
+            "eggGroup": "",
+            "rideable": "",
+            "height": 1.6,
+            "weight": 75,
+            "origin": "宝可梦-豪力",
+            "image": "sprites/067.png",
+            "shiny": [
+                "sprites/067_s.png"
+            ],
+            "description": "武道虔诚的学徒，鳞皮坚硬，可以格挡冲击，懂得调动全身配合拳脚发力。",
+            "stats": {
+                "hp": 80,
+                "atk": 100,
+                "def": 70,
+                "spAtk": 50,
+                "spDef": 60,
+                "spd": 45
+            }
+        },
+        {
+            "id": "066",
+            "name": "武小狗",
+            "types": [
+                "格斗"
+            ],
+            "stage": "一阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [],
+            "evoTo": [
+                "067"
+            ],
+            "eggGroup": "",
+            "rideable": "",
+            "height": 0.8,
+            "weight": 19.6,
+            "origin": "宝可梦-腕力",
+            "image": "sprites/066.png",
+            "shiny": [
+                "sprites/066_s.png"
+            ],
+            "description": "依靠尾巴辅助站稳桩功，热爱练习武道。",
+            "stats": {
+                "hp": 70,
+                "atk": 80,
+                "def": 50,
+                "spAtk": 35,
+                "spDef": 35,
+                "spd": 30
+            }
+        },
+        {
             "id": "279",
             "name": "浮水鸥",
             "types": [
