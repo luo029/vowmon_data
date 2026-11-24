@@ -24,7 +24,7 @@
             "rideable": "",
             "height": 1.9,
             "weight": 132,
-            "origin": "",
+            "origin": "宝可梦-怪力",
             "image": "sprites/068.png",
             "shiny": [
                 "sprites/068_s.png"
