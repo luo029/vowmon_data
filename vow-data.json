@@ -1,6 +1,84 @@
 {
     "pets": [
         {
+            "id": "402",
+            "name": "鸣笙君",
+            "types": [
+                "草"
+            ],
+            "stage": "一阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [
+                "401"
+            ],
+            "evoTo": [],
+            "eggGroup": "",
+            "rideable": "",
+            "height": 1.1,
+            "weight": 25.2,
+            "origin": "宝可梦-音箱蟀",
+            "image": "sprites/402.png",
+            "shiny": [
+                "sprites/402_s.png"
+            ],
+            "description": "栖于深林丘壑间吹奏笙乐，清风载着它的旋律传遍山野。",
+            "stats": {
+                "hp": 77,
+                "atk": 55,
+                "def": 51,
+                "spAtk": 85,
+                "spDef": 51,
+                "spd": 65
+            }
+        },
+        {
+            "id": "401",
+            "name": "圆笙童子",
+            "types": [
+                "草"
+            ],
+            "stage": "一阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [],
+            "evoTo": [
+                "402"
+            ],
+            "eggGroup": "",
+            "rideable": "",
+            "height": 0.28,
+            "weight": 2.3,
+            "origin": "宝可梦-圆法师",
+            "image": "sprites/401.png",
+            "shiny": [
+                "sprites/401_s.png"
+            ],
+            "description": "圆滚滚的身子不善奔走，晃动触角时，便能吹出细碎柔和的笙声。",
+            "stats": {
+                "hp": 37,
+                "atk": 25,
+                "def": 41,
+                "spAtk": 25,
+                "spDef": 41,
+                "spd": 22
+            }
+        },
+        {
             "id": "009",
             "name": "沧水獭",
             "types": [
