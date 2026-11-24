@@ -4,112 +4,28 @@
    "id": "ranks",
    "title": "等级体系",
    "file": "ranks.html",
-   "count": 120
+   "count": 107
   },
   {
    "id": "bloodlines",
    "title": "血脉图鉴",
    "file": "bloodlines.html",
-   "count": 67
+   "count": 44
   },
   {
    "id": "trainers",
    "title": "御兽师图鉴",
    "file": "trainers.html",
-   "count": 87
+   "count": 82
   },
   {
    "id": "lore",
    "title": "元域演化史",
    "file": "lore.html",
-   "count": 45
+   "count": 37
   }
  ],
  "blocks": {
-  "ranks.c108": {
-   "label": "开头 · span #1",
-   "html": "<i class=\"fa-solid fa-layer-group\"></i> 世界观 · 等级体系"
-  },
-  "ranks.c109": {
-   "label": "精灵阶元与权限 · 标题",
-   "html": "精灵阶元与权限"
-  },
-  "ranks.c110": {
-   "label": "核心三律 · 标题",
-   "html": "核心三律"
-  },
-  "ranks.c111": {
-   "label": "力 战力 · 标题",
-   "html": "力 <small>战力</small>"
-  },
-  "ranks.c112": {
-   "label": "位 生态位 · 标题",
-   "html": "位 <small>生态位</small>"
-  },
-  "ranks.c113": {
-   "label": "权 权柄 · 标题",
-   "html": "权 <small>权柄</small>"
-  },
-  "ranks.c114": {
-   "label": "状态组合与权柄循环 · 标题",
-   "html": "状态组合与权柄循环"
-  },
-  "ranks.c115": {
-   "label": "状态组合与权柄循环 · div #1",
-   "html": "\n<i class=\"fa-solid fa-lightbulb\"></i>\n<span>关键规则：御兽师与精灵签订契约，契的只是【力】和【位】。<b>只要不碰【权】</b>，精灵可以一直待在御兽空间里，保持原本的样子。</span>\n"
-  },
-  "ranks.c116": {
-   "label": "状态组合与权柄循环 · div #2",
-   "html": "STEP 1"
-  },
-  "ranks.c117": {
-   "label": "状态组合与权柄循环 · div #3",
-   "html": "STEP 2"
-  },
-  "ranks.c118": {
-   "label": "状态组合与权柄循环 · div #4",
-   "html": "STEP 3"
-  },
-  "ranks.c119": {
-   "label": "状态组合与权柄循环 · div #5",
-   "html": "STEP 4"
-  },
-  "ranks.c120": {
-   "label": "状态组合与权柄循环 · div #6",
-   "html": "STEP 5"
-  },
-  "ranks.c121": {
-   "label": "状态组合与权柄循环 · div #7",
-   "html": "<b>托举机制</b>：掌权精灵会抽取下位同属性精灵的力量来维持统治——下位托举上位，所以掌权的负担极其沉重，御兽师会被瞬间抽干。"
-  },
-  "ranks.c122": {
-   "label": "状态组合与权柄循环 · div #8",
-   "html": "<b>摇人机制</b>：平时不掌权，遇到大战时，御兽师再通过感应把「掌权的大佬精灵」摇过来帮忙——比如族尊，是一整个种族的托举；御兽师还要替那些托举的精灵分担一部分重量。"
-  },
-  "ranks.c123": {
-   "label": "状态组合与权柄循环 · div #9",
-   "html": "<b>放权机制</b>：御兽师和精灵为了永远在一起，会在精灵晋位完成后主动把【权】下放给其他野生精灵去当「管理员」——负担消失，御兽师立刻重新契约。"
-  },
-  "ranks.c124": {
-   "label": "阶元权限总表 · 标题",
-   "html": "阶元权限总表"
-  },
-  "ranks.c125": {
-   "label": "八阶逐级拆解 · 标题",
-   "html": "八阶逐级拆解"
-  },
-  "ranks.c126": {
-   "label": "两条铁律 · 标题",
-   "html": "两条铁律"
-  },
-  "ranks.c127": {
-   "label": "战斗逻辑 · 标题",
-   "html": "<i class=\"fa-solid fa-scale-balanced\"></i> 战斗逻辑"
-  },
-  "ranks.c128": {
-   "label": "形态原则 · 标题",
-   "html": "<i class=\"fa-solid fa-dragon\"></i> 形态原则"
-  },
   "ranks.c1": {
    "label": "精灵阶元与权限 · div #1",
    "html": "力 · 位 · 权 —— 三律之下，万物有序"
@@ -218,6 +134,10 @@
    "label": "阶元权限总表 · td #6",
    "html": "<span class=\"tier-badge\" style=\"background:linear-gradient(135deg,#94a3b8,#64748b)\">初灵 <span class=\"tier-lv\">1-15</span></span>"
   },
+  "ranks.c28": {
+   "label": "阶元权限总表 · span #7",
+   "html": "1-15"
+  },
   "ranks.c29": {
    "label": "阶元权限总表 · td #8",
    "html": "初生 1-15"
@@ -233,6 +153,10 @@
   "ranks.c32": {
    "label": "阶元权限总表 · td #11",
    "html": "<span class=\"tier-badge\" style=\"background:linear-gradient(135deg,#4dabf7,#1971c2)\">升灵 <span class=\"tier-lv\">16-36</span></span>"
+  },
+  "ranks.c33": {
+   "label": "阶元权限总表 · span #12",
+   "html": "16-36"
   },
   "ranks.c34": {
    "label": "阶元权限总表 · td #13",
@@ -250,6 +174,10 @@
    "label": "阶元权限总表 · td #16",
    "html": "<span class=\"tier-badge\" style=\"background:linear-gradient(135deg,#51cf66,#2f9e44)\">族尊 <span class=\"tier-lv\">37-50</span></span>"
   },
+  "ranks.c38": {
+   "label": "阶元权限总表 · span #17",
+   "html": "37-50"
+  },
   "ranks.c39": {
    "label": "阶元权限总表 · td #18",
    "html": "职业 36-50"
@@ -265,6 +193,10 @@
   "ranks.c42": {
    "label": "阶元权限总表 · td #21",
    "html": "<span class=\"tier-badge\" style=\"background:linear-gradient(135deg,#fcc419,#e67700)\">基座 <span class=\"tier-lv\">51-60</span></span>"
+  },
+  "ranks.c43": {
+   "label": "阶元权限总表 · span #22",
+   "html": "51-60"
   },
   "ranks.c44": {
    "label": "阶元权限总表 · td #23",
@@ -282,6 +214,10 @@
    "label": "阶元权限总表 · td #26",
    "html": "<span class=\"tier-badge\" style=\"background:linear-gradient(135deg,#ff922b,#e8590c)\">灵相 <span class=\"tier-lv\">61-70</span></span>"
   },
+  "ranks.c48": {
+   "label": "阶元权限总表 · span #27",
+   "html": "61-70"
+  },
   "ranks.c49": {
    "label": "阶元权限总表 · td #28",
    "html": "承相 61-70"
@@ -297,6 +233,10 @@
   "ranks.c52": {
    "label": "阶元权限总表 · td #31",
    "html": "<span class=\"tier-badge\" style=\"background:linear-gradient(135deg,#f06595,#c2255c)\">律冠 <span class=\"tier-lv\">71-89</span></span>"
+  },
+  "ranks.c53": {
+   "label": "阶元权限总表 · span #32",
+   "html": "71-89"
   },
   "ranks.c54": {
    "label": "阶元权限总表 · td #33",
@@ -314,6 +254,10 @@
    "label": "阶元权限总表 · td #36",
    "html": "<span class=\"tier-badge\" style=\"background:linear-gradient(135deg,#9775fa,#6741d9)\">元灵 <span class=\"tier-lv\">90-99</span></span>"
   },
+  "ranks.c58": {
+   "label": "阶元权限总表 · span #37",
+   "html": "90-99"
+  },
   "ranks.c59": {
    "label": "阶元权限总表 · td #38",
    "html": "掌元 90-99"
@@ -329,6 +273,10 @@
   "ranks.c62": {
    "label": "阶元权限总表 · td #41",
    "html": "<span class=\"tier-badge\" style=\"background:linear-gradient(135deg,#ffd43b,#f59f00);color:#5c4200\">元 <span class=\"tier-lv\">100</span></span>"
+  },
+  "ranks.c63": {
+   "label": "阶元权限总表 · span #42",
+   "html": "100"
   },
   "ranks.c64": {
    "label": "阶元权限总表 · td #43",
@@ -506,98 +454,6 @@
    "label": "形态原则 · p #1",
    "html": "无论精灵升到多高等级，它始终保留<b>生物形态</b>——一只火鸟到了律冠，它依然是一只鸟，只是它的羽毛可以引发核爆。"
   },
-  "bloodlines.c45": {
-   "label": "开头 · span #1",
-   "html": "<i class=\"fa-solid fa-dna\"></i> 世界观 · 血脉"
-  },
-  "bloodlines.c46": {
-   "label": "血脉图鉴 · 标题",
-   "html": "血脉图鉴"
-  },
-  "bloodlines.c47": {
-   "label": "先天与后天 · 标题",
-   "html": "先天与后天"
-  },
-  "bloodlines.c48": {
-   "label": "先天血脉 · 标题",
-   "html": "<i class=\"fa-solid fa-link\"></i> 先天血脉"
-  },
-  "bloodlines.c49": {
-   "label": "后天血脉 · 标题",
-   "html": "<i class=\"fa-solid fa-bolt\"></i> 后天血脉"
-  },
-  "bloodlines.c50": {
-   "label": "共鸣机制 · 标题",
-   "html": "共鸣机制"
-  },
-  "bloodlines.c51": {
-   "label": "共鸣机制 · div #1",
-   "html": "\n<b>血脉不是属性，不参与克制。</b><br/>\n<span class=\"type-pill\" style=\"background:#6390F0\"><i class=\"fa-solid fa-droplet\"></i> 水</span>\n                    克制\n                    <span class=\"type-pill\" style=\"background:#EE8130\"><i class=\"fa-solid fa-fire\"></i> 火</span>——\n                    一只拥有【水】血脉的火系精灵，<b>依旧被水系克制</b>。血脉赋予的是「形态与技能」，不是「克制关系」。\n                "
-  },
-  "bloodlines.c52": {
-   "label": "四大后天血脉 · 标题",
-   "html": "四大后天血脉"
-  },
-  "bloodlines.c53": {
-   "label": "异变血脉 · 标题",
-   "html": "异变血脉"
-  },
-  "bloodlines.c54": {
-   "label": "异变血脉 · div #1",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i>效果</b><span>改变自身形态；战力<b>大幅度增强</b>；异变可控且可逆，随时可以恢复原样。</span>"
-  },
-  "bloodlines.c55": {
-   "label": "黑暗血脉 · 标题",
-   "html": "黑暗血脉"
-  },
-  "bloodlines.c56": {
-   "label": "黑暗血脉 · div #1",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-khanda\"></i>技能</b><span><b>固定四技能</b>，且必定拥有一个强大技能。</span>"
-  },
-  "bloodlines.c57": {
-   "label": "黑暗血脉 · div #2",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-mask\"></i>形态</b><span>形态改变，散发黑暗、堕落、邪恶的气息。</span>"
-  },
-  "bloodlines.c58": {
-   "label": "黑暗血脉 · div #3",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-brain\"></i>变化</b><span>神智提高、招式威力提高——但<b>容易叛逆</b>。</span>"
-  },
-  "bloodlines.c59": {
-   "label": "光明血脉 · 标题",
-   "html": "光明血脉"
-  },
-  "bloodlines.c60": {
-   "label": "光明血脉 · div #1",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-khanda\"></i>技能</b><span><b>固定四技能</b>——随机其他属性的技能，不一定本系；且必定拥有一个强大技能。</span>"
-  },
-  "bloodlines.c61": {
-   "label": "光明血脉 · div #2",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-mask\"></i>形态</b><span>形态改变，散发光明、神圣、正义的气息。</span>"
-  },
-  "bloodlines.c62": {
-   "label": "属性血脉 · 标题",
-   "html": "属性血脉"
-  },
-  "bloodlines.c63": {
-   "label": "属性血脉 · div #1",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-star\"></i>属性技能</b><span>【本心一击】——固定技能，所有精灵都有。即<b>不改变属性的太晶化 + 太晶爆发</b>；技能属性为属性血脉所代表的属性。</span>"
-  },
-  "bloodlines.c64": {
-   "label": "属性血脉 · div #2",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-people-roof\"></i>血脉技能</b><span>取决于所在族群【族尊】给予的族群技能——<b>随时有可能改变</b>，看族尊的想法。族尊除了本系技能，还需向其他属性的精灵<b>借技能</b>，拿来当本族群的血脉属性技能。</span>"
-  },
-  "bloodlines.c65": {
-   "label": "属性血脉 · div #3",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-shield-halved\"></i>克制</b><span>不改变精灵属性：水克火，火精灵拥有水血脉，<b>依旧被克制</b>。</span>"
-  },
-  "bloodlines.c66": {
-   "label": "属性血脉 · div #4",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i>形态</b><span>小幅度改变精灵模样，偏向对应属性的特征。</span>"
-  },
-  "bloodlines.c67": {
-   "label": "血脉口诀 · 标题",
-   "html": "血脉口诀"
-  },
   "bloodlines.c1": {
    "label": "血脉图鉴 · div #1",
    "html": "石之共鸣 · 四大后天血脉"
@@ -774,82 +630,6 @@
    "label": "血脉口诀 · div #6",
    "html": "血脉给形态与技能，不给克制关系。"
   },
-  "trainers.c83": {
-   "label": "开头 · span #1",
-   "html": "<i class=\"fa-solid fa-user-shield\"></i> 世界观 · 御兽师"
-  },
-  "trainers.c84": {
-   "label": "御兽师图鉴 · 标题",
-   "html": "御兽师图鉴"
-  },
-  "trainers.c85": {
-   "label": "三维立身 · 标题",
-   "html": "三维立身"
-  },
-  "trainers.c86": {
-   "label": "肉身 BODY · 标题",
-   "html": "肉身 <small>BODY</small>"
-  },
-  "trainers.c87": {
-   "label": "精神 MIND · 标题",
-   "html": "精神 <small>MIND</small>"
-  },
-  "trainers.c88": {
-   "label": "能量 ENERGY · 标题",
-   "html": "能量 <small>ENERGY</small>"
-  },
-  "trainers.c89": {
-   "label": "等级与契约对照表 · 标题",
-   "html": "等级与契约对照表"
-  },
-  "trainers.c90": {
-   "label": "契约与反噬 · 标题",
-   "html": "契约与反噬"
-  },
-  "trainers.c91": {
-   "label": "精神强度测试 · 标题",
-   "html": "精神强度测试"
-  },
-  "trainers.c92": {
-   "label": "榨精杯 · 标题",
-   "html": "榨精杯"
-  },
-  "trainers.c93": {
-   "label": "修炼三法 · 标题",
-   "html": "修炼三法"
-  },
-  "trainers.c94": {
-   "label": "肉身锤炼法 · 标题",
-   "html": "肉身锤炼法"
-  },
-  "trainers.c95": {
-   "label": "肉身锤炼法 · span #1",
-   "html": "分品级 · 对应肉身"
-  },
-  "trainers.c96": {
-   "label": "精神冥想法 · 标题",
-   "html": "精神冥想法"
-  },
-  "trainers.c97": {
-   "label": "精神冥想法 · span #1",
-   "html": "分品级 · 对应精神"
-  },
-  "trainers.c98": {
-   "label": "能量吸收法 · 标题",
-   "html": "能量吸收法"
-  },
-  "trainers.c99": {
-   "label": "能量吸收法 · span #1",
-   "html": "分品级 · 对应能量"
-  },
-  "trainers.c100": {
-   "label": "御兽天赋 · 标题",
-   "html": "御兽天赋"
-  },
-  "trainers.c101": {
-   "label": "少数人的特权 · 标题",
-   "html": "少数人的特权"
-  },
   "trainers.c1": {
    "label": "御兽师图鉴 · div #1",
    "html": "肉身 · 精神 · 能量 —— 三维立身"
@@ -898,6 +678,10 @@
    "label": "等级与契约对照表 · td #7",
    "html": "<span class=\"tr-badge\" style=\"background:linear-gradient(135deg,#94a3b8,#64748b)\">初生 <span class=\"tr-lv\">1-15</span></span>"
   },
+  "trainers.c13": {
+   "label": "等级与契约对照表 · span #8",
+   "html": "1-15"
+  },
   "trainers.c14": {
    "label": "等级与契约对照表 · td #9",
    "html": "1 - 15 级"
@@ -905,6 +689,10 @@
   "trainers.c15": {
    "label": "等级与契约对照表 · td #10",
    "html": "<span class=\"pet-tag\">初灵 1-15</span>"
+  },
+  "trainers.c16": {
+   "label": "等级与契约对照表 · span #11",
+   "html": "初灵 1-15"
   },
   "trainers.c17": {
    "label": "等级与契约对照表 · td #12",
@@ -922,6 +710,10 @@
    "label": "等级与契约对照表 · td #15",
    "html": "<span class=\"tr-badge\" style=\"background:linear-gradient(135deg,#4dabf7,#1971c2)\">精英 <span class=\"tr-lv\">16-35</span></span>"
   },
+  "trainers.c21": {
+   "label": "等级与契约对照表 · span #16",
+   "html": "16-35"
+  },
   "trainers.c22": {
    "label": "等级与契约对照表 · td #17",
    "html": "16 - 35 级"
@@ -929,6 +721,10 @@
   "trainers.c23": {
    "label": "等级与契约对照表 · td #18",
    "html": "<span class=\"pet-tag\">升灵 16-36</span>"
+  },
+  "trainers.c24": {
+   "label": "等级与契约对照表 · span #19",
+   "html": "升灵 16-36"
   },
   "trainers.c25": {
    "label": "等级与契约对照表 · td #20",
@@ -946,6 +742,10 @@
    "label": "等级与契约对照表 · td #23",
    "html": "<span class=\"tr-badge\" style=\"background:linear-gradient(135deg,#51cf66,#2f9e44)\">职业 <span class=\"tr-lv\">36-50</span></span>"
   },
+  "trainers.c29": {
+   "label": "等级与契约对照表 · span #24",
+   "html": "36-50"
+  },
   "trainers.c30": {
    "label": "等级与契约对照表 · td #25",
    "html": "36 - 50 级"
@@ -953,6 +753,10 @@
   "trainers.c31": {
    "label": "等级与契约对照表 · td #26",
    "html": "<span class=\"pet-tag\">族尊 37-50</span>"
+  },
+  "trainers.c32": {
+   "label": "等级与契约对照表 · span #27",
+   "html": "族尊 37-50"
   },
   "trainers.c33": {
    "label": "等级与契约对照表 · td #28",
@@ -970,6 +774,10 @@
    "label": "等级与契约对照表 · td #31",
    "html": "<span class=\"tr-badge\" style=\"background:linear-gradient(135deg,#fcc419,#e67700)\">枢座 <span class=\"tr-lv\">51-60</span></span>"
   },
+  "trainers.c37": {
+   "label": "等级与契约对照表 · span #32",
+   "html": "51-60"
+  },
   "trainers.c38": {
    "label": "等级与契约对照表 · td #33",
    "html": "51 - 60 级"
@@ -977,6 +785,10 @@
   "trainers.c39": {
    "label": "等级与契约对照表 · td #34",
    "html": "<span class=\"pet-tag\">基座 51-60</span>"
+  },
+  "trainers.c40": {
+   "label": "等级与契约对照表 · span #35",
+   "html": "基座 51-60"
   },
   "trainers.c41": {
    "label": "等级与契约对照表 · td #36",
@@ -994,6 +806,10 @@
    "label": "等级与契约对照表 · td #39",
    "html": "<span class=\"tr-badge\" style=\"background:linear-gradient(135deg,#ff922b,#e8590c)\">承相 <span class=\"tr-lv\">61-70</span></span>"
   },
+  "trainers.c45": {
+   "label": "等级与契约对照表 · span #40",
+   "html": "61-70"
+  },
   "trainers.c46": {
    "label": "等级与契约对照表 · td #41",
    "html": "61 - 70 级"
@@ -1001,6 +817,10 @@
   "trainers.c47": {
    "label": "等级与契约对照表 · td #42",
    "html": "<span class=\"pet-tag\">灵相 61-70</span>"
+  },
+  "trainers.c48": {
+   "label": "等级与契约对照表 · span #43",
+   "html": "灵相 61-70"
   },
   "trainers.c49": {
    "label": "等级与契约对照表 · td #44",
@@ -1018,6 +838,10 @@
    "label": "等级与契约对照表 · td #47",
    "html": "<span class=\"tr-badge\" style=\"background:linear-gradient(135deg,#f06595,#c2255c)\">司律 <span class=\"tr-lv\">71-89</span></span>"
   },
+  "trainers.c53": {
+   "label": "等级与契约对照表 · span #48",
+   "html": "71-89"
+  },
   "trainers.c54": {
    "label": "等级与契约对照表 · td #49",
    "html": "71 - 89 级"
@@ -1025,6 +849,10 @@
   "trainers.c55": {
    "label": "等级与契约对照表 · td #50",
    "html": "<span class=\"pet-tag\">律冠 71-89</span>"
+  },
+  "trainers.c56": {
+   "label": "等级与契约对照表 · span #51",
+   "html": "律冠 71-89"
   },
   "trainers.c57": {
    "label": "等级与契约对照表 · td #52",
@@ -1042,6 +870,10 @@
    "label": "等级与契约对照表 · td #55",
    "html": "<span class=\"tr-badge\" style=\"background:linear-gradient(135deg,#9775fa,#6741d9)\">掌元 <span class=\"tr-lv\">90-99</span></span>"
   },
+  "trainers.c61": {
+   "label": "等级与契约对照表 · span #56",
+   "html": "90-99"
+  },
   "trainers.c62": {
    "label": "等级与契约对照表 · td #57",
    "html": "90 - 99 级"
@@ -1049,6 +881,10 @@
   "trainers.c63": {
    "label": "等级与契约对照表 · td #58",
    "html": "<span class=\"pet-tag\">元灵 90-99</span>"
+  },
+  "trainers.c64": {
+   "label": "等级与契约对照表 · span #59",
+   "html": "元灵 90-99"
   },
   "trainers.c65": {
    "label": "等级与契约对照表 · td #60",
@@ -1122,38 +958,6 @@
    "label": "少数人的特权 · p #1",
    "html": "御兽天赋只有<b>少部分人</b>才能拥有；且拥有的人，也要在踏入<b>【职业级】</b>之后，天赋才会激活。"
   },
-  "lore.c38": {
-   "label": "元域演化史 · 标题",
-   "html": "元域演化史"
-  },
-  "lore.c39": {
-   "label": "元域演化史 · div #1",
-   "html": "\n<span class=\"kw kw-type\" style=\"background:#EE8130\"><i class=\"fa-solid fa-fire\"></i> 火</span>\n<span class=\"kw kw-type\" style=\"background:#7AC74C\"><i class=\"fa-solid fa-leaf\"></i> 草</span>\n<span class=\"kw kw-type\" style=\"background:#6390F0\"><i class=\"fa-solid fa-droplet\"></i> 水</span>\n"
-  },
-  "lore.c40": {
-   "label": "最初之元 · 标题",
-   "html": "最初之元"
-  },
-  "lore.c41": {
-   "label": "万物演化 · 标题",
-   "html": "万物演化"
-  },
-  "lore.c42": {
-   "label": "生灵之变 · 标题",
-   "html": "生灵之变"
-  },
-  "lore.c43": {
-   "label": "龙蛇之变 · 标题",
-   "html": "龙蛇之变"
-  },
-  "lore.c44": {
-   "label": "立于龙上之物 · 标题",
-   "html": "立于龙上之物"
-  },
-  "lore.c45": {
-   "label": "石板尾声 · 标题",
-   "html": "石板尾声"
-  },
   "lore.c1": {
    "label": "开头 · span #1",
    "html": "<i class=\"fa-solid fa-tablets\"></i> 世界观 · 十八生态界"
@@ -1164,7 +968,7 @@
   },
   "lore.c3": {
    "label": "元域演化史 · p #2",
-   "html": "\n            下面这些文字，辑录自散落在各界的<b>传世石板</b>。<br/>\n            石板之上刻着世界尚未被记住的模样——最初的元、三颗种子，以及从种子里长出来的整个元域。\n        "
+   "html": "\n            下面这些文字，辑录自散落在各界的<b>传世石板</b>。<br>\n            石板之上刻着世界尚未被记住的模样——<br>最初的元、三颗种子，以及从种子里长出来的整个元域。\n        "
   },
   "lore.c4": {
    "label": "最初之元 · p #1",
