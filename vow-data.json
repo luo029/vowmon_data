@@ -257,7 +257,9 @@
             "height": 0.6,
             "weight": 7.2,
             "image": "sprites/001.png",
-            "shiny": [],
+            "shiny": [
+                "sprites/001_s.png"
+            ],
             "description": "以嫩叶感知周围，生气时会抖落叶片。",
             "stats": {
                 "hp": 45,
