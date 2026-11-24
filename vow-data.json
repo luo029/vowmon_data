@@ -1,6 +1,96 @@
 {
     "pets": [
         {
+            "id": "006",
+            "name": "煌焰猫",
+            "types": [
+                "火"
+            ],
+            "stage": "三阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "eggGroup": "",
+            "rideable": "",
+            "height": 1.68,
+            "weight": 77.3,
+            "image": "sprites/006.png",
+            "shiny": [
+                "sprites/006_s.png"
+            ],
+            "description": "燃烧的鬃毛能产生灼热的冲击波，抬眼便引赤风横生。",
+            "stats": {
+                "hp": 74,
+                "atk": 115,
+                "def": 75,
+                "spAtk": 85,
+                "spDef": 75,
+                "spd": 126
+            }
+        },
+        {
+            "id": "005",
+            "name": "炎炎猫",
+            "types": [
+                "火"
+            ],
+            "stage": "二阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "eggGroup": "",
+            "rideable": "",
+            "height": 0.98,
+            "weight": 22.3,
+            "image": "sprites/005.png",
+            "shiny": [
+                "sprites/005_s.png"
+            ],
+            "description": "鬃毛般的火焰能向四周喷射火花。",
+            "stats": {
+                "hp": 54,
+                "atk": 82,
+                "def": 58,
+                "spAtk": 65,
+                "spDef": 58,
+                "spd": 86
+            }
+        },
+        {
+            "id": "004",
+            "name": "火绒猫",
+            "types": [
+                "火"
+            ],
+            "stage": "一阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "eggGroup": "",
+            "rideable": "",
+            "height": 0.55,
+            "weight": 6.8,
+            "image": "sprites/004.png",
+            "shiny": [
+                "sprites/004_s.png"
+            ],
+            "description": "激动时火星四溅，用尾巴保持平衡。",
+            "stats": {
+                "hp": 39,
+                "atk": 62,
+                "def": 43,
+                "spAtk": 50,
+                "spDef": 43,
+                "spd": 71
+            }
+        },
+        {
             "id": "003",
             "name": "古森鹿",
             "types": [
@@ -36,7 +126,7 @@
             "types": [
                 "草"
             ],
-            "stage": "一阶",
+            "stage": "二阶",
             "evoPos": "初始",
             "form": "主形态",
             "rank": "",
