@@ -19,6 +19,12 @@
    "count": 87
   },
   {
+   "id": "factions",
+   "title": "势力版图",
+   "file": "factions.html",
+   "count": 43
+  },
+  {
    "id": "lore",
    "title": "元域演化史",
    "file": "lore.html",
@@ -34,82 +40,6 @@
    "label": "精灵阶元与权限 · 标题",
    "html": "精灵阶元与权限"
   },
-  "ranks.c110": {
-   "label": "核心三律 · 标题",
-   "html": "核心三律"
-  },
-  "ranks.c111": {
-   "label": "力 战力 · 标题",
-   "html": "力 <small>战力</small>"
-  },
-  "ranks.c112": {
-   "label": "位 生态位 · 标题",
-   "html": "位 <small>生态位</small>"
-  },
-  "ranks.c113": {
-   "label": "权 权柄 · 标题",
-   "html": "权 <small>权柄</small>"
-  },
-  "ranks.c114": {
-   "label": "状态组合与权柄循环 · 标题",
-   "html": "状态组合与权柄循环"
-  },
-  "ranks.c115": {
-   "label": "状态组合与权柄循环 · div #1",
-   "html": "\n<i class=\"fa-solid fa-lightbulb\"></i>\n<span>关键规则：御兽师与精灵签订契约，契的只是【力】和【位】。<b>只要不碰【权】</b>，精灵可以一直待在御兽空间里，保持原本的样子。</span>\n"
-  },
-  "ranks.c116": {
-   "label": "状态组合与权柄循环 · div #2",
-   "html": "STEP 1"
-  },
-  "ranks.c117": {
-   "label": "状态组合与权柄循环 · div #3",
-   "html": "STEP 2"
-  },
-  "ranks.c118": {
-   "label": "状态组合与权柄循环 · div #4",
-   "html": "STEP 3"
-  },
-  "ranks.c119": {
-   "label": "状态组合与权柄循环 · div #5",
-   "html": "STEP 4"
-  },
-  "ranks.c120": {
-   "label": "状态组合与权柄循环 · div #6",
-   "html": "STEP 5"
-  },
-  "ranks.c121": {
-   "label": "状态组合与权柄循环 · div #7",
-   "html": "<b>托举机制</b>：掌权精灵会抽取下位同属性精灵的力量来维持统治——下位托举上位，所以掌权的负担极其沉重，御兽师会被瞬间抽干。"
-  },
-  "ranks.c122": {
-   "label": "状态组合与权柄循环 · div #8",
-   "html": "<b>摇人机制</b>：平时不掌权，遇到大战时，御兽师再通过感应把「掌权的大佬精灵」摇过来帮忙——比如族尊，是一整个种族的托举；御兽师还要替那些托举的精灵分担一部分重量。"
-  },
-  "ranks.c123": {
-   "label": "状态组合与权柄循环 · div #9",
-   "html": "<b>放权机制</b>：御兽师和精灵为了永远在一起，会在精灵晋位完成后主动把【权】下放给其他野生精灵去当「管理员」——负担消失，御兽师立刻重新契约。"
-  },
-  "ranks.c124": {
-   "label": "阶元权限总表 · 标题",
-   "html": "阶元权限总表"
-  },
-  "ranks.c125": {
-   "label": "八阶逐级拆解 · 标题",
-   "html": "八阶逐级拆解"
-  },
-  "ranks.c126": {
-   "label": "两条铁律 · 标题",
-   "html": "两条铁律"
-  },
-  "ranks.c127": {
-   "label": "战斗逻辑 · 标题",
-   "html": "<i class=\"fa-solid fa-scale-balanced\"></i> 战斗逻辑"
-  },
-  "ranks.c128": {
-   "label": "形态原则 · 标题",
-   "html": "<i class=\"fa-solid fa-dragon\"></i> 形态原则"
-  },
   "ranks.c1": {
    "label": "精灵阶元与权限 · div #1",
    "html": "力 · 位 · 权 —— 三律之下，万物有序"
@@ -118,17 +48,37 @@
    "label": "精灵阶元与权限 · p #2",
    "html": "\n            精灵与御兽师的等级，本质上是<b>「在生态界中占据的地位」</b>。\n            高阶精灵形态不变，改变的是权限、法则与技能特效——蟋蟀永远是蟋蟀，龙永远是龙。\n        "
   },
+  "ranks.c110": {
+   "label": "核心三律 · 标题",
+   "html": "核心三律"
+  },
+  "ranks.c111": {
+   "label": "力 战力 · 标题",
+   "html": "力 <small>战力</small>"
+  },
   "ranks.c3": {
    "label": "力 战力 · p #1",
    "html": "精灵自身的<b>数值面板与技能</b>，是纯粹的实力。有【力】不需要争夺，修炼就能增长。"
+  },
+  "ranks.c112": {
+   "label": "位 生态位 · 标题",
+   "html": "位 <small>生态位</small>"
   },
   "ranks.c4": {
    "label": "位 生态位 · p #1",
    "html": "精灵在<b>生态界中占据的位置</b>。多数情况是先占据生态位，才有相应的【力】，之后才谈得上争夺【权】。"
   },
+  "ranks.c113": {
+   "label": "权 权柄 · 标题",
+   "html": "权 <small>权柄</small>"
+  },
   "ranks.c5": {
    "label": "权 权柄 · p #1",
    "html": "生态界的<b>「唯一管理员账号」</b>：对应的精灵全服只有一只，只能通过战斗争夺。掌权者可以修改规则、给下位精灵增幅。"
+  },
+  "ranks.c114": {
+   "label": "状态组合与权柄循环 · 标题",
+   "html": "状态组合与权柄循环"
   },
   "ranks.c6": {
    "label": "状态组合与权柄循环 · div #1",
@@ -154,6 +104,14 @@
    "label": "状态组合与权柄循环 · p #6",
    "html": "最稀少：拥有升灵的形态、等级、数值，【位】却是初灵甚至没有。"
   },
+  "ranks.c115": {
+   "label": "状态组合与权柄循环 · div #1",
+   "html": "\n<i class=\"fa-solid fa-lightbulb\"></i>\n<span>关键规则：御兽师与精灵签订契约，契的只是【力】和【位】。<b>只要不碰【权】</b>，精灵可以一直待在御兽空间里，保持原本的样子。</span>\n"
+  },
+  "ranks.c116": {
+   "label": "状态组合与权柄循环 · div #2",
+   "html": "STEP 1"
+  },
   "ranks.c12": {
    "label": "状态组合与权柄循环 · div #7",
    "html": "解契"
@@ -161,6 +119,10 @@
   "ranks.c13": {
    "label": "状态组合与权柄循环 · div #8",
    "html": "精灵要夺权，御兽师必须放生"
+  },
+  "ranks.c117": {
+   "label": "状态组合与权柄循环 · div #3",
+   "html": "STEP 2"
   },
   "ranks.c14": {
    "label": "状态组合与权柄循环 · div #9",
@@ -170,6 +132,10 @@
    "label": "状态组合与权柄循环 · div #10",
    "html": "打赢现任掌权者"
   },
+  "ranks.c118": {
+   "label": "状态组合与权柄循环 · div #4",
+   "html": "STEP 3"
+  },
   "ranks.c16": {
    "label": "状态组合与权柄循环 · div #11",
    "html": "晋位进化"
@@ -177,6 +143,10 @@
   "ranks.c17": {
    "label": "状态组合与权柄循环 · div #12",
    "html": "借权柄完成进化"
+  },
+  "ranks.c119": {
+   "label": "状态组合与权柄循环 · div #5",
+   "html": "STEP 4"
   },
   "ranks.c18": {
    "label": "状态组合与权柄循环 · div #13",
@@ -186,6 +156,10 @@
    "label": "状态组合与权柄循环 · div #14",
    "html": "把权柄扔给野生精灵"
   },
+  "ranks.c120": {
+   "label": "状态组合与权柄循环 · div #6",
+   "html": "STEP 5"
+  },
   "ranks.c20": {
    "label": "状态组合与权柄循环 · div #15",
    "html": "重新契约"
@@ -193,6 +167,22 @@
   "ranks.c21": {
    "label": "状态组合与权柄循环 · div #16",
    "html": "负担消失，永远在一起"
+  },
+  "ranks.c121": {
+   "label": "状态组合与权柄循环 · div #7",
+   "html": "<b>托举机制</b>：掌权精灵会抽取下位同属性精灵的力量来维持统治——下位托举上位，所以掌权的负担极其沉重，御兽师会被瞬间抽干。"
+  },
+  "ranks.c122": {
+   "label": "状态组合与权柄循环 · div #8",
+   "html": "<b>摇人机制</b>：平时不掌权，遇到大战时，御兽师再通过感应把「掌权的大佬精灵」摇过来帮忙——比如族尊，是一整个种族的托举；御兽师还要替那些托举的精灵分担一部分重量。"
+  },
+  "ranks.c123": {
+   "label": "状态组合与权柄循环 · div #9",
+   "html": "<b>放权机制</b>：御兽师和精灵为了永远在一起，会在精灵晋位完成后主动把【权】下放给其他野生精灵去当「管理员」——负担消失，御兽师立刻重新契约。"
+  },
+  "ranks.c124": {
+   "label": "阶元权限总表 · 标题",
+   "html": "阶元权限总表"
   },
   "ranks.c22": {
    "label": "阶元权限总表 · th #1",
@@ -341,6 +331,10 @@
   "ranks.c66": {
    "label": "阶元权限总表 · p #45",
    "html": "注：掌权权限仅限<b>掌权时</b>生效，战力本身无权限限制。若元灵沉睡，大量低阶精灵的高胜率引发「生态界震动」，也能强制重写克制。"
+  },
+  "ranks.c125": {
+   "label": "八阶逐级拆解 · 标题",
+   "html": "八阶逐级拆解"
   },
   "ranks.c67": {
    "label": "八阶逐级拆解 · span #1",
@@ -498,9 +492,21 @@
    "label": "八阶逐级拆解 · div #39",
    "html": "<b class=\"label\"><i class=\"fa-solid fa-lock\"></i>权限</b>不可达。等级上限即为 99 级元灵，100 级【元】只存在于传说之中。"
   },
+  "ranks.c126": {
+   "label": "两条铁律 · 标题",
+   "html": "两条铁律"
+  },
+  "ranks.c127": {
+   "label": "战斗逻辑 · 标题",
+   "html": "<i class=\"fa-solid fa-scale-balanced\"></i> 战斗逻辑"
+  },
   "ranks.c106": {
    "label": "战斗逻辑 · p #1",
    "html": "低级打高级，哪怕克制，也打不过——<b>数值碾压</b>。但同级别打架，看的是环境、特效和战术（技能核心组合）。"
+  },
+  "ranks.c128": {
+   "label": "形态原则 · 标题",
+   "html": "<i class=\"fa-solid fa-dragon\"></i> 形态原则"
   },
   "ranks.c107": {
    "label": "形态原则 · p #1",
@@ -514,6 +520,14 @@
    "label": "血脉图鉴 · 标题",
    "html": "血脉图鉴"
   },
+  "bloodlines.c1": {
+   "label": "血脉图鉴 · div #1",
+   "html": "石之共鸣 · 四大后天血脉"
+  },
+  "bloodlines.c2": {
+   "label": "血脉图鉴 · p #2",
+   "html": "\n            精灵默认有两条血脉：<b>先天血脉</b>与<b>后天血脉</b>。真正改变战局、被御兽师们孜孜以求的，\n            是可以通过<b>血脉之石</b>后天唤醒的四条血脉。\n        "
+  },
   "bloodlines.c47": {
    "label": "先天与后天 · 标题",
    "html": "先天与后天"
@@ -522,13 +536,33 @@
    "label": "先天血脉 · 标题",
    "html": "<i class=\"fa-solid fa-link\"></i> 先天血脉"
   },
+  "bloodlines.c3": {
+   "label": "先天血脉 · p #1",
+   "html": "先天血脉<b>锁死为主属性血脉</b>——如果精灵是双属性，则两条属性交织成一条血脉。"
+  },
+  "bloodlines.c4": {
+   "label": "先天血脉 · div #2",
+   "html": "通过属性即可得出，一般不作讨论。"
+  },
   "bloodlines.c49": {
    "label": "后天血脉 · 标题",
    "html": "<i class=\"fa-solid fa-bolt\"></i> 后天血脉"
   },
+  "bloodlines.c5": {
+   "label": "后天血脉 · p #1",
+   "html": "可后天唤醒，共分<b>四类</b>：异变、黑暗、光明、属性。每一条都对应一颗<b>血脉之石</b>。"
+  },
+  "bloodlines.c6": {
+   "label": "后天血脉 · div #2",
+   "html": "设定讨论中「只考虑后天血脉」即指这四条。"
+  },
   "bloodlines.c50": {
    "label": "共鸣机制 · 标题",
    "html": "共鸣机制"
+  },
+  "bloodlines.c7": {
+   "label": "共鸣机制 · p #1",
+   "html": "\n                御兽师手持<b style=\"color:var(--ink);\">血脉之石</b>，与精灵的<b style=\"color:var(--ink);\">对应后天血脉</b>产生共鸣——\n                由此唤醒精灵沉睡的力量，掌握（或催动）其强大的技能。\n            "
   },
   "bloodlines.c51": {
    "label": "共鸣机制 · div #1",
@@ -542,90 +576,6 @@
    "label": "异变血脉 · 标题",
    "html": "异变血脉"
   },
-  "bloodlines.c54": {
-   "label": "异变血脉 · div #1",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i>效果</b><span>改变自身形态；战力<b>大幅度增强</b>；异变可控且可逆，随时可以恢复原样。</span>"
-  },
-  "bloodlines.c55": {
-   "label": "黑暗血脉 · 标题",
-   "html": "黑暗血脉"
-  },
-  "bloodlines.c56": {
-   "label": "黑暗血脉 · div #1",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-khanda\"></i>技能</b><span><b>固定四技能</b>，且必定拥有一个强大技能。</span>"
-  },
-  "bloodlines.c57": {
-   "label": "黑暗血脉 · div #2",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-mask\"></i>形态</b><span>形态改变，散发黑暗、堕落、邪恶的气息。</span>"
-  },
-  "bloodlines.c58": {
-   "label": "黑暗血脉 · div #3",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-brain\"></i>变化</b><span>神智提高、招式威力提高——但<b>容易叛逆</b>。</span>"
-  },
-  "bloodlines.c59": {
-   "label": "光明血脉 · 标题",
-   "html": "光明血脉"
-  },
-  "bloodlines.c60": {
-   "label": "光明血脉 · div #1",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-khanda\"></i>技能</b><span><b>固定四技能</b>——随机其他属性的技能，不一定本系；且必定拥有一个强大技能。</span>"
-  },
-  "bloodlines.c61": {
-   "label": "光明血脉 · div #2",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-mask\"></i>形态</b><span>形态改变，散发光明、神圣、正义的气息。</span>"
-  },
-  "bloodlines.c62": {
-   "label": "属性血脉 · 标题",
-   "html": "属性血脉"
-  },
-  "bloodlines.c63": {
-   "label": "属性血脉 · div #1",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-star\"></i>属性技能</b><span>【本心一击】——固定技能，所有精灵都有。即<b>不改变属性的太晶化 + 太晶爆发</b>；技能属性为属性血脉所代表的属性。</span>"
-  },
-  "bloodlines.c64": {
-   "label": "属性血脉 · div #2",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-people-roof\"></i>血脉技能</b><span>取决于所在族群【族尊】给予的族群技能——<b>随时有可能改变</b>，看族尊的想法。族尊除了本系技能，还需向其他属性的精灵<b>借技能</b>，拿来当本族群的血脉属性技能。</span>"
-  },
-  "bloodlines.c65": {
-   "label": "属性血脉 · div #3",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-shield-halved\"></i>克制</b><span>不改变精灵属性：水克火，火精灵拥有水血脉，<b>依旧被克制</b>。</span>"
-  },
-  "bloodlines.c66": {
-   "label": "属性血脉 · div #4",
-   "html": "<b class=\"label\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i>形态</b><span>小幅度改变精灵模样，偏向对应属性的特征。</span>"
-  },
-  "bloodlines.c67": {
-   "label": "血脉口诀 · 标题",
-   "html": "血脉口诀"
-  },
-  "bloodlines.c1": {
-   "label": "血脉图鉴 · div #1",
-   "html": "石之共鸣 · 四大后天血脉"
-  },
-  "bloodlines.c2": {
-   "label": "血脉图鉴 · p #2",
-   "html": "\n            精灵默认有两条血脉：<b>先天血脉</b>与<b>后天血脉</b>。真正改变战局、被御兽师们孜孜以求的，\n            是可以通过<b>血脉之石</b>后天唤醒的四条血脉。\n        "
-  },
-  "bloodlines.c3": {
-   "label": "先天血脉 · p #1",
-   "html": "先天血脉<b>锁死为主属性血脉</b>——如果精灵是双属性，则两条属性交织成一条血脉。"
-  },
-  "bloodlines.c4": {
-   "label": "先天血脉 · div #2",
-   "html": "通过属性即可得出，一般不作讨论。"
-  },
-  "bloodlines.c5": {
-   "label": "后天血脉 · p #1",
-   "html": "可后天唤醒，共分<b>四类</b>：异变、黑暗、光明、属性。每一条都对应一颗<b>血脉之石</b>。"
-  },
-  "bloodlines.c6": {
-   "label": "后天血脉 · div #2",
-   "html": "设定讨论中「只考虑后天血脉」即指这四条。"
-  },
-  "bloodlines.c7": {
-   "label": "共鸣机制 · p #1",
-   "html": "\n                御兽师手持<b style=\"color:var(--ink);\">血脉之石</b>，与精灵的<b style=\"color:var(--ink);\">对应后天血脉</b>产生共鸣——\n                由此唤醒精灵沉睡的力量，掌握（或催动）其强大的技能。\n            "
-  },
   "bloodlines.c8": {
    "label": "异变血脉 · span #1",
    "html": "御兽师持【异变之石】与精灵共鸣"
@@ -637,6 +587,10 @@
   "bloodlines.c10": {
    "label": "异变血脉 · div #3",
    "html": "\n                    与精灵的【异变血脉】共鸣，使用掌握的强大技能。产生<b>可控、可逆</b>的异变。\n                "
+  },
+  "bloodlines.c54": {
+   "label": "异变血脉 · div #1",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i>效果</b><span>改变自身形态；战力<b>大幅度增强</b>；异变可控且可逆，随时可以恢复原样。</span>"
   },
   "bloodlines.c11": {
    "label": "异变血脉 · span #4",
@@ -654,6 +608,10 @@
    "label": "异变血脉 · span #7",
    "html": "<i class=\"fa-solid fa-lightbulb\"></i> 原型参照：宝可梦「Mega 进化 / 超级进化」——仅助记，非世界设定"
   },
+  "bloodlines.c55": {
+   "label": "黑暗血脉 · 标题",
+   "html": "黑暗血脉"
+  },
   "bloodlines.c15": {
    "label": "黑暗血脉 · span #1",
    "html": "又被叫做隐血脉 · 暗血脉 · 月（夜）血脉"
@@ -665,6 +623,18 @@
   "bloodlines.c17": {
    "label": "黑暗血脉 · div #3",
    "html": "\n                    御兽师持【黑暗之石】与精灵的【黑暗血脉】共鸣，使用掌握的强大技能。\n                    对应精灵被称作<b>【邪恶精灵】、【黑暗精灵】</b>。\n                "
+  },
+  "bloodlines.c56": {
+   "label": "黑暗血脉 · div #1",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-khanda\"></i>技能</b><span><b>固定四技能</b>，且必定拥有一个强大技能。</span>"
+  },
+  "bloodlines.c57": {
+   "label": "黑暗血脉 · div #2",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-mask\"></i>形态</b><span>形态改变，散发黑暗、堕落、邪恶的气息。</span>"
+  },
+  "bloodlines.c58": {
+   "label": "黑暗血脉 · div #3",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-brain\"></i>变化</b><span>神智提高、招式威力提高——但<b>容易叛逆</b>。</span>"
   },
   "bloodlines.c18": {
    "label": "黑暗血脉 · span #4",
@@ -686,6 +656,10 @@
    "label": "黑暗血脉 · span #8",
    "html": "<i class=\"fa-solid fa-lightbulb\"></i> 原型参照：宝可梦「Z 招式」——仅助记，非世界设定"
   },
+  "bloodlines.c59": {
+   "label": "光明血脉 · 标题",
+   "html": "光明血脉"
+  },
   "bloodlines.c23": {
    "label": "光明血脉 · span #1",
    "html": "又被叫做显血脉 · 明血脉 · 日（昼）血脉"
@@ -697,6 +671,14 @@
   "bloodlines.c25": {
    "label": "光明血脉 · div #3",
    "html": "\n                    御兽师持【光明之石】与精灵的【光明血脉】共鸣，使用掌握的强大技能。\n                    对应精灵被称作<b>【正义精灵】、【光明精灵】</b>。\n                "
+  },
+  "bloodlines.c60": {
+   "label": "光明血脉 · div #1",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-khanda\"></i>技能</b><span><b>固定四技能</b>——随机其他属性的技能，不一定本系；且必定拥有一个强大技能。</span>"
+  },
+  "bloodlines.c61": {
+   "label": "光明血脉 · div #2",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-mask\"></i>形态</b><span>形态改变，散发光明、神圣、正义的气息。</span>"
   },
   "bloodlines.c26": {
    "label": "光明血脉 · span #4",
@@ -718,6 +700,10 @@
    "label": "光明血脉 · span #8",
    "html": "<i class=\"fa-solid fa-lightbulb\"></i> 原型参照：宝可梦「Z 招式」——仅助记，非世界设定"
   },
+  "bloodlines.c62": {
+   "label": "属性血脉 · 标题",
+   "html": "属性血脉"
+  },
   "bloodlines.c31": {
    "label": "属性血脉 · span #1",
    "html": "御兽师持【属性之石】与精灵共鸣"
@@ -729,6 +715,22 @@
   "bloodlines.c33": {
    "label": "属性血脉 · div #3",
    "html": "\n                    与精灵的【属性血脉】共鸣，精灵会多出<b>一个血脉技能</b>与<b>一个属性技能</b>。\n                "
+  },
+  "bloodlines.c63": {
+   "label": "属性血脉 · div #1",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-star\"></i>属性技能</b><span>【本心一击】——固定技能，所有精灵都有。即<b>不改变属性的太晶化 + 太晶爆发</b>；技能属性为属性血脉所代表的属性。</span>"
+  },
+  "bloodlines.c64": {
+   "label": "属性血脉 · div #2",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-people-roof\"></i>血脉技能</b><span>取决于所在族群【族尊】给予的族群技能——<b>随时有可能改变</b>，看族尊的想法。族尊除了本系技能，还需向其他属性的精灵<b>借技能</b>，拿来当本族群的血脉属性技能。</span>"
+  },
+  "bloodlines.c65": {
+   "label": "属性血脉 · div #3",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-shield-halved\"></i>克制</b><span>不改变精灵属性：水克火，火精灵拥有水血脉，<b>依旧被克制</b>。</span>"
+  },
+  "bloodlines.c66": {
+   "label": "属性血脉 · div #4",
+   "html": "<b class=\"label\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i>形态</b><span>小幅度改变精灵模样，偏向对应属性的特征。</span>"
   },
   "bloodlines.c34": {
    "label": "属性血脉 · span #4",
@@ -749,6 +751,10 @@
   "bloodlines.c38": {
    "label": "属性血脉 · span #8",
    "html": "<i class=\"fa-solid fa-lightbulb\"></i> 原型参照：宝可梦「太晶化 + 太晶爆发」——仅助记，非世界设定"
+  },
+  "bloodlines.c67": {
+   "label": "血脉口诀 · 标题",
+   "html": "血脉口诀"
   },
   "bloodlines.c39": {
    "label": "血脉口诀 · div #1",
@@ -782,74 +788,6 @@
    "label": "御兽师图鉴 · 标题",
    "html": "御兽师图鉴"
   },
-  "trainers.c85": {
-   "label": "三维立身 · 标题",
-   "html": "三维立身"
-  },
-  "trainers.c86": {
-   "label": "肉身 BODY · 标题",
-   "html": "肉身 <small>BODY</small>"
-  },
-  "trainers.c87": {
-   "label": "精神 MIND · 标题",
-   "html": "精神 <small>MIND</small>"
-  },
-  "trainers.c88": {
-   "label": "能量 ENERGY · 标题",
-   "html": "能量 <small>ENERGY</small>"
-  },
-  "trainers.c89": {
-   "label": "等级与契约对照表 · 标题",
-   "html": "等级与契约对照表"
-  },
-  "trainers.c90": {
-   "label": "契约与反噬 · 标题",
-   "html": "契约与反噬"
-  },
-  "trainers.c91": {
-   "label": "精神强度测试 · 标题",
-   "html": "精神强度测试"
-  },
-  "trainers.c92": {
-   "label": "榨精杯 · 标题",
-   "html": "榨精杯"
-  },
-  "trainers.c93": {
-   "label": "修炼三法 · 标题",
-   "html": "修炼三法"
-  },
-  "trainers.c94": {
-   "label": "肉身锤炼法 · 标题",
-   "html": "肉身锤炼法"
-  },
-  "trainers.c95": {
-   "label": "肉身锤炼法 · span #1",
-   "html": "分品级 · 对应肉身"
-  },
-  "trainers.c96": {
-   "label": "精神冥想法 · 标题",
-   "html": "精神冥想法"
-  },
-  "trainers.c97": {
-   "label": "精神冥想法 · span #1",
-   "html": "分品级 · 对应精神"
-  },
-  "trainers.c98": {
-   "label": "能量吸收法 · 标题",
-   "html": "能量吸收法"
-  },
-  "trainers.c99": {
-   "label": "能量吸收法 · span #1",
-   "html": "分品级 · 对应能量"
-  },
-  "trainers.c100": {
-   "label": "御兽天赋 · 标题",
-   "html": "御兽天赋"
-  },
-  "trainers.c101": {
-   "label": "少数人的特权 · 标题",
-   "html": "少数人的特权"
-  },
   "trainers.c1": {
    "label": "御兽师图鉴 · div #1",
    "html": "肉身 · 精神 · 能量 —— 三维立身"
@@ -858,17 +796,37 @@
    "label": "御兽师图鉴 · p #2",
    "html": "\n            御兽师与精灵签订契约，契约的是精灵的<b>【力】与【位】</b>。\n            承载契约的，是御兽师自身的三维——<b>肉身</b>、<b>精神</b>、<b>能量</b>，三项必须达标，\n            才能契约精灵，或让精灵进化。\n        "
   },
+  "trainers.c85": {
+   "label": "三维立身 · 标题",
+   "html": "三维立身"
+  },
+  "trainers.c86": {
+   "label": "肉身 BODY · 标题",
+   "html": "肉身 <small>BODY</small>"
+  },
   "trainers.c3": {
    "label": "肉身 BODY · p #1",
    "html": "一个人<b>综合素质</b>的反映——肉体强度，基本包含了攻击、速度等。"
+  },
+  "trainers.c87": {
+   "label": "精神 MIND · 标题",
+   "html": "精神 <small>MIND</small>"
   },
   "trainers.c4": {
    "label": "精神 MIND · p #1",
    "html": "一个人的<b>灵魂强度</b>，越强越适合当御兽师，也越适合构建<b>技能核心</b>。精神提升后可同步御兽，让御兽加快技能领悟。"
   },
+  "trainers.c88": {
+   "label": "能量 ENERGY · 标题",
+   "html": "能量 <small>ENERGY</small>"
+  },
   "trainers.c5": {
    "label": "能量 ENERGY · p #1",
    "html": "支撑御兽师通过<b>【契约】</b>催动精灵战斗的消耗能量，相当于<b>续航蓝条</b>——维持御兽空间就持续消耗，战斗时加剧。"
+  },
+  "trainers.c89": {
+   "label": "等级与契约对照表 · 标题",
+   "html": "等级与契约对照表"
   },
   "trainers.c6": {
    "label": "等级与契约对照表 · th #1",
@@ -1066,6 +1024,10 @@
    "label": "等级与契约对照表 · p #63",
    "html": "\n            注：「空间内消耗」为精灵待在御兽空间时每小时消耗的能量；精灵<b>放出御兽空间（非战斗）</b>时消耗极少——如初灵段位仅\n            <span class=\"num\">1</span> 单位 / 天。\n        "
   },
+  "trainers.c90": {
+   "label": "契约与反噬 · 标题",
+   "html": "契约与反噬"
+  },
   "trainers.c69": {
    "label": "契约与反噬 · div #1",
    "html": "<b class=\"label\">达标</b>御兽师三项（肉身 / 精神 / 能量）<b>必须全部达标</b>，才能契约精灵，或者让精灵进化。"
@@ -1098,65 +1060,253 @@
    "label": "契约与反噬 · div #8",
    "html": "<b class=\"label\">增长</b>修炼提升【能量】上限很缓慢，<b>战斗能更快提高上限</b>——所以御兽师们经常对战。"
   },
+  "trainers.c91": {
+   "label": "精神强度测试 · 标题",
+   "html": "精神强度测试"
+  },
+  "trainers.c92": {
+   "label": "榨精杯 · 标题",
+   "html": "榨精杯"
+  },
   "trainers.c77": {
    "label": "榨精杯 · p #1",
    "html": "精神上限的测试道具。它能在极短时间内榨干一个人的精神——<b>每坚持 1 秒钟，就代表 1 单位的精神强度</b>，坚持得越久，灵魂越强。"
+  },
+  "trainers.c93": {
+   "label": "修炼三法 · 标题",
+   "html": "修炼三法"
+  },
+  "trainers.c94": {
+   "label": "肉身锤炼法 · 标题",
+   "html": "肉身锤炼法"
   },
   "trainers.c78": {
    "label": "肉身锤炼法 · p #1",
    "html": "锤炼肉体强度，抬升【肉身】上限。"
   },
+  "trainers.c95": {
+   "label": "肉身锤炼法 · span #1",
+   "html": "分品级 · 对应肉身"
+  },
+  "trainers.c96": {
+   "label": "精神冥想法 · 标题",
+   "html": "精神冥想法"
+  },
   "trainers.c79": {
    "label": "精神冥想法 · p #1",
    "html": "冥想凝练灵魂，抬升【精神】上限。"
+  },
+  "trainers.c97": {
+   "label": "精神冥想法 · span #1",
+   "html": "分品级 · 对应精神"
+  },
+  "trainers.c98": {
+   "label": "能量吸收法 · 标题",
+   "html": "能量吸收法"
   },
   "trainers.c80": {
    "label": "能量吸收法 · p #1",
    "html": "吸纳天地能量，抬升【能量】上限。"
   },
+  "trainers.c99": {
+   "label": "能量吸收法 · span #1",
+   "html": "分品级 · 对应能量"
+  },
   "trainers.c81": {
    "label": "能量吸收法 · p #2",
    "html": "\n            三法均<b style=\"color:var(--ink);\">分品级</b>——不同等级有不同等级的三法。用低等级的功法也有效果，但很慢。\n        "
+  },
+  "trainers.c100": {
+   "label": "御兽天赋 · 标题",
+   "html": "御兽天赋"
+  },
+  "trainers.c101": {
+   "label": "少数人的特权 · 标题",
+   "html": "少数人的特权"
   },
   "trainers.c82": {
    "label": "少数人的特权 · p #1",
    "html": "御兽天赋只有<b>少部分人</b>才能拥有；且拥有的人，也要在踏入<b>【职业级】</b>之后，天赋才会激活。"
   },
-  "lore.c38": {
-   "label": "元域演化史 · 标题",
-   "html": "元域演化史"
+  "factions.c1": {
+   "label": "开头 · span #1",
+   "html": "<i class=\"fa-solid fa-flag\"></i> 世界观 · 势力版图"
   },
-  "lore.c39": {
-   "label": "元域演化史 · div #1",
-   "html": "\n<span class=\"kw kw-type\" style=\"background:#EE8130\"><i class=\"fa-solid fa-fire\"></i> 火</span>\n<span class=\"kw kw-type\" style=\"background:#7AC74C\"><i class=\"fa-solid fa-leaf\"></i> 草</span>\n<span class=\"kw kw-type\" style=\"background:#6390F0\"><i class=\"fa-solid fa-droplet\"></i> 水</span>\n"
+  "factions.c2": {
+   "label": "联盟与势力 · 标题",
+   "html": "联盟与势力"
   },
-  "lore.c40": {
-   "label": "最初之元 · 标题",
-   "html": "最初之元"
+  "factions.c3": {
+   "label": "联盟与势力 · div #1",
+   "html": "地区划界，联盟治世 —— 文明止步之处，即是荒野"
   },
-  "lore.c41": {
-   "label": "万物演化 · 标题",
-   "html": "万物演化"
+  "factions.c4": {
+   "label": "联盟与势力 · p #2",
+   "html": "\n            人类的秩序以<b>「地区」</b>为界，每个地区都有自己的<b>「联盟」</b>。\n            政治与军事分立，名号与实力并行——而联盟的地图之外，是任何法律都管不到的荒野。\n        "
   },
-  "lore.c42": {
-   "label": "生灵之变 · 标题",
-   "html": "生灵之变"
+  "factions.c5": {
+   "label": "联盟制度 · 标题",
+   "html": "联盟制度"
   },
-  "lore.c43": {
-   "label": "龙蛇之变 · 标题",
-   "html": "龙蛇之变"
+  "factions.c6": {
+   "label": "地区划分REGION · 标题",
+   "html": "地区划分<small>REGION</small>"
   },
-  "lore.c44": {
-   "label": "立于龙上之物 · 标题",
-   "html": "立于龙上之物"
+  "factions.c7": {
+   "label": "地区划分REGION · p #1",
+   "html": "世界按<b>地区</b>划分，每个地区都是一个独立的文明圈，拥有自己的联盟、大赛与名号体系。目前已知的主要地区为<b>九牧地区</b>。"
   },
-  "lore.c45": {
-   "label": "石板尾声 · 标题",
-   "html": "石板尾声"
+  "factions.c8": {
+   "label": "地区联盟LEAGUE · 标题",
+   "html": "地区联盟<small>LEAGUE</small>"
+  },
+  "factions.c9": {
+   "label": "地区联盟LEAGUE · p #1",
+   "html": "每个地区都有自己的<b>联盟</b>，统管本地区的御兽师认证、大赛举办与秩序维持。政治与军事分立：政治最高管理者为<b>盟主</b>，军事最高管理者为<b>戎枢</b>。"
+  },
+  "factions.c10": {
+   "label": "荒野WILDS · 标题",
+   "html": "荒野<small>WILDS</small>"
+  },
+  "factions.c11": {
+   "label": "荒野WILDS · p #1",
+   "html": "地区之外，为<b>荒野</b>——不受任何联盟管辖的法外之地，也是许多邪恶势力藏身之所。踏入荒野，联盟的保护即告终结。"
+  },
+  "factions.c12": {
+   "label": "九牧地区 · 九牧联盟 · 标题",
+   "html": "九牧地区 · 九牧联盟"
+  },
+  "factions.c13": {
+   "label": "九牧地区 · 标题",
+   "html": "九牧地区"
+  },
+  "factions.c14": {
+   "label": "九牧地区 · p #1",
+   "html": "故事的<b>主要舞台</b>。九牧地区由<b>九牧联盟</b>治理，沿用联盟制的通用秩序：盟主执掌政务，戎枢执掌军事，地方上由各阶段御兽师分层构成实力与名号体系。"
+  },
+  "factions.c15": {
+   "label": "九牧地区 · p #2",
+   "html": "御兽师在九牧联盟的阶梯上逐级攀登——从<b>初生</b>、<b>精英</b>一路到<b>职业</b>及以上，参加联盟大赛、争取称号，最终向<b>大冠</b>之位发起挑战。"
+  },
+  "factions.c16": {
+   "label": "权职体系 · 标题",
+   "html": "权职体系"
+  },
+  "factions.c17": {
+   "label": "权职体系 · th #1",
+   "html": "名号"
+  },
+  "factions.c18": {
+   "label": "权职体系 · th #2",
+   "html": "性质"
+  },
+  "factions.c19": {
+   "label": "权职体系 · th #3",
+   "html": "含义与由来"
+  },
+  "factions.c20": {
+   "label": "权职体系 · td #4",
+   "html": "盟主<span class=\"post-en\">LEAGUE MASTER</span>"
+  },
+  "factions.c21": {
+   "label": "权职体系 · td #5",
+   "html": "<span class=\"post-badge gov\">政治最高</span>"
+  },
+  "factions.c22": {
+   "label": "权职体系 · td #6",
+   "html": "一个地区联盟的<b>政治最高管理者</b>，执掌政务、法度与联盟日常运转。"
+  },
+  "factions.c23": {
+   "label": "权职体系 · td #7",
+   "html": "戎枢<span class=\"post-en\">WAR PIVOT</span>"
+  },
+  "factions.c24": {
+   "label": "权职体系 · td #8",
+   "html": "<span class=\"post-badge mil\">军事最高</span>"
+  },
+  "factions.c25": {
+   "label": "权职体系 · td #9",
+   "html": "一个地区联盟的<b>军事最高管理者</b>，执掌武力、征伐与防务。"
+  },
+  "factions.c26": {
+   "label": "权职体系 · td #10",
+   "html": "大冠<span class=\"post-en\">GRAND CROWN</span>"
+  },
+  "factions.c27": {
+   "label": "权职体系 · td #11",
+   "html": "<span class=\"post-badge honor\">实力名号</span>"
+  },
+  "factions.c28": {
+   "label": "权职体系 · td #12",
+   "html": "<b>地区最强训练家</b>的名号，是所有御兽师攀登联盟阶梯的终点。"
+  },
+  "factions.c29": {
+   "label": "权职体系 · td #13",
+   "html": "太宰<span class=\"post-en\">GRAND STEWARD</span>"
+  },
+  "factions.c30": {
+   "label": "权职体系 · td #14",
+   "html": "<span class=\"post-badge honor\">实力名号</span>"
+  },
+  "factions.c31": {
+   "label": "权职体系 · td #15",
+   "html": "<b>地区四大承相</b>的合称名号。承相阶段（对应精灵灵相期）的顶尖存在。"
+  },
+  "factions.c32": {
+   "label": "权职体系 · td #16",
+   "html": "首座<span class=\"post-en\">PRIME SEAT</span>"
+  },
+  "factions.c33": {
+   "label": "权职体系 · td #17",
+   "html": "<span class=\"post-badge honor\">属性名号</span>"
+  },
+  "factions.c34": {
+   "label": "权职体系 · td #18",
+   "html": "地区<b>各属性最强的枢座</b>的名号。一属性一座，十八系各争其位。"
+  },
+  "factions.c35": {
+   "label": "权职体系 · td #19",
+   "html": "大君<span class=\"post-en\">GRAND SOVEREIGN</span>"
+  },
+  "factions.c36": {
+   "label": "权职体系 · td #20",
+   "html": "<span class=\"post-badge mil\">政军兼任</span>"
+  },
+  "factions.c37": {
+   "label": "权职体系 · td #21",
+   "html": "若有人<b>同时兼任政治、军事最高统治者</b>，即可获得的名号——权柄归于一身。"
+  },
+  "factions.c38": {
+   "label": "三大协会 · 标题",
+   "html": "三大协会"
+  },
+  "factions.c39": {
+   "label": "精灵协会 · 标题",
+   "html": "精灵协会"
+  },
+  "factions.c40": {
+   "label": "御兽师协会 · 标题",
+   "html": "御兽师协会"
+  },
+  "factions.c41": {
+   "label": "学术协会 · 标题",
+   "html": "学术协会"
+  },
+  "factions.c42": {
+   "label": "荒野警示 · WILDS · 标题",
+   "html": "<i class=\"fa-solid fa-triangle-exclamation\"></i> 荒野警示 · WILDS NOTICE"
+  },
+  "factions.c43": {
+   "label": "荒野警示 · WILDS NOT · p #1",
+   "html": "九牧的地图之外，没有任何法律。<b>杀人越货</b>之事在荒野屡见不鲜，也是邪恶势力的藏身之所。穿越荒野的商队必须雇佣<b>职业级以上</b>的御兽师护卫——而即便如此，也没有人敢保证一定能活着回来。"
   },
   "lore.c1": {
    "label": "开头 · span #1",
    "html": "<i class=\"fa-solid fa-tablets\"></i> 世界观 · 十八生态界"
+  },
+  "lore.c38": {
+   "label": "元域演化史 · 标题",
+   "html": "元域演化史"
   },
   "lore.c2": {
    "label": "元域演化史 · div #1",
@@ -1165,6 +1315,14 @@
   "lore.c3": {
    "label": "元域演化史 · p #2",
    "html": "\n            下面这些文字，辑录自散落在各界的<b>传世石板</b>。<br/>\n            石板之上刻着世界尚未被记住的模样——最初的元、三颗种子，以及从种子里长出来的整个元域。\n        "
+  },
+  "lore.c39": {
+   "label": "元域演化史 · div #1",
+   "html": "\n<span class=\"kw kw-type\" style=\"background:#EE8130\"><i class=\"fa-solid fa-fire\"></i> 火</span>\n<span class=\"kw kw-type\" style=\"background:#7AC74C\"><i class=\"fa-solid fa-leaf\"></i> 草</span>\n<span class=\"kw kw-type\" style=\"background:#6390F0\"><i class=\"fa-solid fa-droplet\"></i> 水</span>\n"
+  },
+  "lore.c40": {
+   "label": "最初之元 · 标题",
+   "html": "最初之元"
   },
   "lore.c4": {
    "label": "最初之元 · p #1",
@@ -1202,6 +1360,10 @@
    "label": "最初之元 · p #9",
    "html": "神明留下这句话，就彻底失踪了。"
   },
+  "lore.c41": {
+   "label": "万物演化 · 标题",
+   "html": "万物演化"
+  },
   "lore.c13": {
    "label": "万物演化 · p #1",
    "html": "岁月流转，三颗种子生根发芽，孕育出无尽的生态。"
@@ -1222,6 +1384,10 @@
    "label": "万物演化 · p #5",
    "html": "而当大地深处的岩石被地火反复熔炼，最终褪去了泥土的软弱，化作了坚不可摧的【钢】。"
   },
+  "lore.c42": {
+   "label": "生灵之变 · 标题",
+   "html": "生灵之变"
+  },
   "lore.c18": {
    "label": "生灵之变 · p #1",
    "html": "生灵滋生，智慧与灵魂随之萌芽。"
@@ -1237,6 +1403,10 @@
   "lore.c21": {
    "label": "生灵之变 · p #4",
    "html": "凡俗生灵为了生存而挥拳相向，诞生了极致的肉体搏杀，是为【格斗】；为了生存而诡计多端，诞生了【恶】之暗面。"
+  },
+  "lore.c43": {
+   "label": "龙蛇之变 · 标题",
+   "html": "龙蛇之变"
   },
   "lore.c22": {
    "label": "龙蛇之变 · p #1",
@@ -1258,6 +1428,10 @@
    "label": "龙蛇之变 · p #5",
    "html": "虚空在它们的咆哮中破碎，它们剥离了所有借来的外物躯壳，自诩为——【龙】！"
   },
+  "lore.c44": {
+   "label": "立于龙上之物 · 标题",
+   "html": "立于龙上之物"
+  },
   "lore.c27": {
    "label": "立于龙上之物 · p #1",
    "html": "然而，巨龙也会战栗。"
@@ -1277,6 +1451,10 @@
   "lore.c31": {
    "label": "立于龙上之物 · span #5",
    "html": "石板蒙尘，似有文字若隐若现"
+  },
+  "lore.c45": {
+   "label": "石板尾声 · 标题",
+   "html": "石板尾声"
   },
   "lore.c32": {
    "label": "石板尾声 · p #1",

@@ -1,0 +1,26 @@
+{
+ "individuals": [
+  {
+   "id": "ind001",
+   "nickname": "沐沐",
+   "speciesId": "008",
+   "gender": "雄",
+   "personality": "沉稳寡言，遇事不慌；对陌生人警惕，对主人极度忠诚。战斗风格偏向后发制人。",
+   "traits": ["激流"],
+   "skills": [
+    {"name": "水枪", "level": "完美", "mode": ""},
+    {"name": "急冻拳", "level": "专精", "mode": "迅疾"},
+    {"name": "守住", "level": "熟练", "mode": ""},
+    {"name": "水之波动", "level": "入门", "mode": ""}
+   ],
+   "bloodline": "属性",
+   "bloodlineSkill": "本心一击",
+   "bloodlineAttr": "冰",
+   "level": 42,
+   "ownerId": "cha001",
+   "items": ["神秘水滴"],
+   "experience": "幼年在溪谷被主人收养，曾于暴洪之夜独自托举塌桥救下全村，是主人身边第一只契约精灵。",
+   "notes": "示例条目，可自由修改或删除。"
+  }
+ ]
+}
