@@ -1,226 +1,231 @@
-[
-    {
-        "id": "i001",
-        "name": "传说印记",
-        "kind": "物品",
-        "group": "其他道具",
-        "category": "传说精灵挑战道具",
-        "icon": "",
-        "iconClass": "fa-solid fa-star",
-        "color": "#e8a33d",
-        "desc": "参与传说精灵调查的凭证，仅能用于和传说精灵签订契约，不会获得玩法本身奖励。",
-        "obtain": [
-            "赛季通行证获得"
-        ]
-    },
-    {
-        "id": "i002",
-        "name": "万能血脉秘药",
-        "kind": "物品",
-        "group": "精灵培养",
-        "category": "血脉修改道具",
-        "icon": "",
-        "iconClass": "fa-solid fa-flask",
-        "color": "#c58cf5",
-        "desc": "修改血脉的秘药，使精灵获得任意一种「系列血脉」。",
-        "obtain": [
-            "商城购买",
-            "活动奖励"
-        ]
-    },
-    {
-        "id": "i003",
-        "name": "伊兰龙的馈赠",
-        "kind": "物品",
-        "group": "其他道具",
-        "category": "首领信物",
-        "icon": "",
-        "iconClass": "fa-solid fa-gem",
-        "color": "#8fb8f0",
-        "desc": "凝缩了伊兰龙往日记忆的缩影。是在战斗中激活远古血脉的必要条件。",
-        "obtain": [
-            "击败首领·伊兰龙",
-            "首领挑战结算奖励"
-        ]
-    },
-    {
-        "id": "i004",
-        "name": "凡雀的记忆",
-        "kind": "物品",
-        "group": "精灵培养",
-        "category": "精灵记忆",
-        "icon": "",
-        "iconClass": "fa-solid fa-feather",
-        "color": "#f0a1c0",
-        "desc": "远古的思绪凝结成晶体，窥探精灵的记忆可以提升凡雀家族的能力。",
-        "obtain": [
-            "探索凡雀栖息地",
-            "记忆碎片合成"
-        ]
-    },
-    {
-        "id": "i005",
-        "name": "凡鹰印记",
-        "kind": "物品",
-        "group": "其他道具",
-        "category": "传说精灵挑战道具",
-        "icon": "",
-        "iconClass": "fa-solid fa-link",
-        "color": "#d9a7f5",
-        "desc": "蕴含独特魔力的星链，仅能用于和指定传说精灵签订契约，不会获得玩法本身奖励。「凡羽掠影」活动结束后，会被自动转化为洛克贝。",
-        "obtain": [
-            "赛季通行证获得"
-        ]
-    },
-    {
-        "id": "i006",
-        "name": "普通咕噜球",
-        "kind": "物品",
-        "group": "咕噜球",
-        "category": "精灵契约道具",
-        "icon": "",
-        "iconClass": "fa-solid fa-baseball",
-        "color": "#4dabf7",
-        "desc": "与精灵缔结契约的魔法道具，从很久之前开始被称为咕噜球。",
-        "obtain": [
-            "商店购买",
-            "新手引导赠送"
-        ]
-    },
-    {
-        "id": "i007",
-        "name": "高级咕噜球",
-        "kind": "物品",
-        "group": "咕噜球",
-        "category": "精灵契约道具",
-        "icon": "",
-        "iconClass": "fa-solid fa-baseball",
-        "color": "#b197fc",
-        "desc": "更容易与精灵缔结契约的咕噜球，在精灵虚弱的时候使用效果更佳。",
-        "obtain": [
-            "商店购买",
-            "任务奖励"
-        ]
-    },
-    {
-        "id": "i008",
-        "name": "光环球",
-        "kind": "物品",
-        "group": "咕噜球",
-        "category": "精灵契约道具",
-        "icon": "",
-        "iconClass": "fa-solid fa-circle-dot",
-        "color": "#51cf66",
-        "desc": "更适合用来捕捉草系、光系精灵的咕噜球。",
-        "obtain": [
-            "商店购买",
-            "合成台制作"
-        ]
-    },
-    {
-        "id": "i009",
-        "name": "国王球",
-        "kind": "物品",
-        "group": "咕噜球",
-        "category": "精灵契约道具",
-        "icon": "",
-        "iconClass": "fa-solid fa-crown",
-        "color": "#f0b429",
-        "desc": "昂贵且好用的咕噜球，能十分轻易地捕捉精灵，并能提升精灵的天分。",
-        "obtain": [
-            "限时活动兑换",
-            "商城购买"
-        ]
-    },
-    {
-        "id": "i010",
-        "name": "洛克贝",
-        "kind": "物品",
-        "group": "货币与资源",
-        "category": "通用货币",
-        "icon": "",
-        "iconClass": "fa-solid fa-coins",
-        "color": "#f0b429",
-        "desc": "卡洛西亚大陆上的通用货币，日常交易与商店购买都离不开它。",
-        "obtain": [
-            "任务结算",
-            "出售素材",
-            "活动奖励"
-        ]
-    },
-    {
-        "id": "i011",
-        "name": "许愿星",
-        "kind": "物品",
-        "group": "货币与资源",
-        "category": "特殊货币",
-        "icon": "",
-        "iconClass": "fa-solid fa-star-half-stroke",
-        "color": "#f783ac",
-        "desc": "魔法师们正在收集的特殊货币，可在许愿池兑换稀有道具。",
-        "obtain": [
-            "每日委托",
-            "限时活动"
-        ]
-    },
-    {
-        "id": "i012",
-        "name": "魔法经验",
-        "kind": "物品",
-        "group": "魔法与素材",
-        "category": "成长素材",
-        "icon": "",
-        "iconClass": "fa-solid fa-book-open",
-        "color": "#63b3ed",
-        "desc": "探索世界的过程中获得，用于提升角色的魔法等级。",
-        "obtain": [
-            "探索地图",
-            "完成任务"
-        ]
-    },
-    {
-        "id": "i013",
-        "name": "分光水晶",
-        "kind": "物品",
-        "group": "魔法与素材",
-        "category": "炼金材料",
-        "icon": "",
-        "iconClass": "fa-solid fa-cube",
-        "color": "#a5b4fc",
-        "desc": "珍贵的炼金材料，可以用来合成棱镜球。",
-        "obtain": [
-            "矿脉采集",
-            "炼金分解"
-        ]
-    },
-    {
-        "id": "i014",
-        "name": "可可果",
-        "kind": "物品",
-        "group": "种植与礼物",
-        "category": "作物",
-        "icon": "",
-        "iconClass": "fa-solid fa-apple-whole",
-        "color": "#ff8787",
-        "desc": "农场种植得到的果实，散发着可可的香气，很多精灵都很喜欢。",
-        "obtain": [
-            "农场种植",
-            "赠送好友"
-        ]
-    },
-    {
-        "id": "i015",
-        "name": "火焰果",
-        "kind": "精灵果实",
-        "group": "精灵培养",
-        "category": "战斗增益果实",
-        "icon": "",
-        "iconClass": "fa-solid fa-fire-flame-curved",
-        "color": "#ff922b",
-        "desc": "喂食后一段时间内，精灵的火属性技能威力会有所提升。",
-        "obtain": [
-            "农场种植",
-            "活动奖励"
-        ]
-    }
-]
+{
+    "kinds": [],
+    "groups": [],
+    "categories": [],
+    "items": [
+        {
+            "id": "i001",
+            "name": "传说印记",
+            "kind": "物品",
+            "group": "其他道具",
+            "category": "传说精灵挑战道具",
+            "icon": "",
+            "iconClass": "fa-solid fa-star",
+            "color": "#e8a33d",
+            "desc": "参与传说精灵调查的凭证，仅能用于和传说精灵签订契约，不会获得玩法本身奖励。",
+            "obtain": [
+                "赛季通行证获得"
+            ]
+        },
+        {
+            "id": "i002",
+            "name": "万能血脉秘药",
+            "kind": "物品",
+            "group": "精灵培养",
+            "category": "血脉修改道具",
+            "icon": "",
+            "iconClass": "fa-solid fa-flask",
+            "color": "#c58cf5",
+            "desc": "修改血脉的秘药，使精灵获得任意一种「系列血脉」。",
+            "obtain": [
+                "商城购买",
+                "活动奖励"
+            ]
+        },
+        {
+            "id": "i003",
+            "name": "伊兰龙的馈赠",
+            "kind": "物品",
+            "group": "其他道具",
+            "category": "首领信物",
+            "icon": "",
+            "iconClass": "fa-solid fa-gem",
+            "color": "#8fb8f0",
+            "desc": "凝缩了伊兰龙往日记忆的缩影。是在战斗中激活远古血脉的必要条件。",
+            "obtain": [
+                "击败首领·伊兰龙",
+                "首领挑战结算奖励"
+            ]
+        },
+        {
+            "id": "i004",
+            "name": "凡雀的记忆",
+            "kind": "物品",
+            "group": "精灵培养",
+            "category": "精灵记忆",
+            "icon": "",
+            "iconClass": "fa-solid fa-feather",
+            "color": "#f0a1c0",
+            "desc": "远古的思绪凝结成晶体，窥探精灵的记忆可以提升凡雀家族的能力。",
+            "obtain": [
+                "探索凡雀栖息地",
+                "记忆碎片合成"
+            ]
+        },
+        {
+            "id": "i005",
+            "name": "凡鹰印记",
+            "kind": "物品",
+            "group": "其他道具",
+            "category": "传说精灵挑战道具",
+            "icon": "",
+            "iconClass": "fa-solid fa-link",
+            "color": "#d9a7f5",
+            "desc": "蕴含独特魔力的星链，仅能用于和指定传说精灵签订契约，不会获得玩法本身奖励。「凡羽掠影」活动结束后，会被自动转化为洛克贝。",
+            "obtain": [
+                "赛季通行证获得"
+            ]
+        },
+        {
+            "id": "i006",
+            "name": "普通咕噜球",
+            "kind": "物品",
+            "group": "咕噜球",
+            "category": "精灵契约道具",
+            "icon": "",
+            "iconClass": "fa-solid fa-baseball",
+            "color": "#4dabf7",
+            "desc": "与精灵缔结契约的魔法道具，从很久之前开始被称为咕噜球。",
+            "obtain": [
+                "商店购买",
+                "新手引导赠送"
+            ]
+        },
+        {
+            "id": "i007",
+            "name": "高级咕噜球",
+            "kind": "物品",
+            "group": "咕噜球",
+            "category": "精灵契约道具",
+            "icon": "",
+            "iconClass": "fa-solid fa-baseball",
+            "color": "#b197fc",
+            "desc": "更容易与精灵缔结契约的咕噜球，在精灵虚弱的时候使用效果更佳。",
+            "obtain": [
+                "商店购买",
+                "任务奖励"
+            ]
+        },
+        {
+            "id": "i008",
+            "name": "光环球",
+            "kind": "物品",
+            "group": "咕噜球",
+            "category": "精灵契约道具",
+            "icon": "",
+            "iconClass": "fa-solid fa-circle-dot",
+            "color": "#51cf66",
+            "desc": "更适合用来捕捉草系、光系精灵的咕噜球。",
+            "obtain": [
+                "商店购买",
+                "合成台制作"
+            ]
+        },
+        {
+            "id": "i009",
+            "name": "国王球",
+            "kind": "物品",
+            "group": "咕噜球",
+            "category": "精灵契约道具",
+            "icon": "",
+            "iconClass": "fa-solid fa-crown",
+            "color": "#f0b429",
+            "desc": "昂贵且好用的咕噜球，能十分轻易地捕捉精灵，并能提升精灵的天分。",
+            "obtain": [
+                "限时活动兑换",
+                "商城购买"
+            ]
+        },
+        {
+            "id": "i010",
+            "name": "洛克贝",
+            "kind": "物品",
+            "group": "货币与资源",
+            "category": "通用货币",
+            "icon": "",
+            "iconClass": "fa-solid fa-coins",
+            "color": "#f0b429",
+            "desc": "卡洛西亚大陆上的通用货币，日常交易与商店购买都离不开它。",
+            "obtain": [
+                "任务结算",
+                "出售素材",
+                "活动奖励"
+            ]
+        },
+        {
+            "id": "i011",
+            "name": "许愿星",
+            "kind": "物品",
+            "group": "货币与资源",
+            "category": "特殊货币",
+            "icon": "",
+            "iconClass": "fa-solid fa-star-half-stroke",
+            "color": "#f783ac",
+            "desc": "魔法师们正在收集的特殊货币，可在许愿池兑换稀有道具。",
+            "obtain": [
+                "每日委托",
+                "限时活动"
+            ]
+        },
+        {
+            "id": "i012",
+            "name": "魔法经验",
+            "kind": "物品",
+            "group": "魔法与素材",
+            "category": "成长素材",
+            "icon": "",
+            "iconClass": "fa-solid fa-book-open",
+            "color": "#63b3ed",
+            "desc": "探索世界的过程中获得，用于提升角色的魔法等级。",
+            "obtain": [
+                "探索地图",
+                "完成任务"
+            ]
+        },
+        {
+            "id": "i013",
+            "name": "分光水晶",
+            "kind": "物品",
+            "group": "魔法与素材",
+            "category": "炼金材料",
+            "icon": "",
+            "iconClass": "fa-solid fa-cube",
+            "color": "#a5b4fc",
+            "desc": "珍贵的炼金材料，可以用来合成棱镜球。",
+            "obtain": [
+                "矿脉采集",
+                "炼金分解"
+            ]
+        },
+        {
+            "id": "i014",
+            "name": "可可果",
+            "kind": "物品",
+            "group": "种植与礼物",
+            "category": "作物",
+            "icon": "",
+            "iconClass": "fa-solid fa-apple-whole",
+            "color": "#ff8787",
+            "desc": "农场种植得到的果实，散发着可可的香气，很多精灵都很喜欢。",
+            "obtain": [
+                "农场种植",
+                "赠送好友"
+            ]
+        },
+        {
+            "id": "i015",
+            "name": "火焰果",
+            "kind": "精灵果实",
+            "group": "精灵培养",
+            "category": "战斗增益果实",
+            "icon": "",
+            "iconClass": "fa-solid fa-fire-flame-curved",
+            "color": "#ff922b",
+            "desc": "喂食后一段时间内，精灵的火属性技能威力会有所提升。",
+            "obtain": [
+                "农场种植",
+                "活动奖励"
+            ]
+        }
+    ]
+}
