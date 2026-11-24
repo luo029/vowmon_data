@@ -1,6 +1,36 @@
 {
     "pets": [
         {
+            "id": "008",
+            "name": "浪浪獭",
+            "types": [
+                "水"
+            ],
+            "stage": "二阶",
+            "evoPos": "初始",
+            "form": "主形态",
+            "rank": "",
+            "ability": "",
+            "abilityEffect": "",
+            "eggGroup": "",
+            "rideable": "",
+            "height": 0.91,
+            "weight": 20.1,
+            "image": "sprites/008.png",
+            "shiny": [
+                "sprites/008_s.png"
+            ],
+            "description": "尾巴划开水面，留下一串水泡轨迹。",
+            "stats": {
+                "hp": 65,
+                "atk": 63,
+                "def": 84,
+                "spAtk": 65,
+                "spDef": 84,
+                "spd": 55
+            }
+        },
+        {
             "id": "007",
             "name": "水珠獭",
             "types": [
