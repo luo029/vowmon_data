@@ -28,7 +28,11 @@
                 "spAtk": 90,
                 "spDef": 115,
                 "spd": 55
-            }
+            },
+            "evoTo": [],
+            "evoFrom": [
+                "008"
+            ]
         },
         {
             "id": "008",
@@ -42,10 +46,21 @@
             "rank": "",
             "ability": "",
             "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [
+                "007"
+            ],
+            "evoTo": [
+                "009"
+            ],
             "eggGroup": "",
             "rideable": "",
             "height": 0.91,
             "weight": 20.1,
+            "origin": "",
             "image": "sprites/008.png",
             "shiny": [
                 "sprites/008_s.png"
@@ -88,7 +103,11 @@
                 "spAtk": 50,
                 "spDef": 64,
                 "spd": 42
-            }
+            },
+            "evoTo": [
+                "008"
+            ],
+            "evoFrom": []
         },
         {
             "id": "006",
@@ -118,7 +137,11 @@
                 "spAtk": 85,
                 "spDef": 75,
                 "spd": 126
-            }
+            },
+            "evoTo": [],
+            "evoFrom": [
+                "005"
+            ]
         },
         {
             "id": "005",
@@ -132,10 +155,21 @@
             "rank": "",
             "ability": "",
             "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [
+                "004"
+            ],
+            "evoTo": [
+                "006"
+            ],
             "eggGroup": "",
             "rideable": "",
             "height": 0.98,
             "weight": 22.3,
+            "origin": "",
             "image": "sprites/005.png",
             "shiny": [
                 "sprites/005_s.png"
@@ -178,7 +212,11 @@
                 "spAtk": 50,
                 "spDef": 43,
                 "spd": 71
-            }
+            },
+            "evoTo": [
+                "005"
+            ],
+            "evoFrom": []
         },
         {
             "id": "003",
@@ -194,7 +232,7 @@
             "abilityEffect": "",
             "eggGroup": "",
             "rideable": "",
-            "height": 2,
+            "height": 2.75,
             "weight": 152.3,
             "image": "sprites/003.png",
             "shiny": [
@@ -208,7 +246,11 @@
                 "spAtk": 110,
                 "spDef": 110,
                 "spd": 75
-            }
+            },
+            "evoTo": [],
+            "evoFrom": [
+                "002"
+            ]
         },
         {
             "id": "002",
@@ -222,10 +264,21 @@
             "rank": "",
             "ability": "",
             "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [
+                "001"
+            ],
+            "evoTo": [
+                "003"
+            ],
             "eggGroup": "",
             "rideable": "",
             "height": 1.05,
             "weight": 22.6,
+            "origin": "",
             "image": "sprites/002.png",
             "shiny": [
                 "sprites/002_s.png"
@@ -250,8 +303,8 @@
             "evoPos": "初始",
             "form": "主形态",
             "rank": "",
-            "ability": "",
-            "abilityEffect": "",
+            "ability": "阳光涌动",
+            "abilityEffect": "晴天环境下，自身速度提升至2倍。",
             "eggGroup": "",
             "rideable": "",
             "height": 0.6,
@@ -268,7 +321,11 @@
                 "spAtk": 65,
                 "spDef": 65,
                 "spd": 49
-            }
+            },
+            "evoTo": [
+                "002"
+            ],
+            "evoFrom": []
         }
     ]
 }
