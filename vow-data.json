@@ -386,7 +386,7 @@
                 "genus": "",
                 "species": ""
             },
-            "origin": "",
+            "origin": "水獭",
             "image": "sprites/007.png",
             "shiny": [
                 "sprites/007_s.png"
@@ -486,13 +486,32 @@
             "stage": "一阶",
             "evoPos": "初始",
             "form": "主形态",
-            "rank": "",
             "ability": "",
             "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [],
+            "evoTo": [
+                "005"
+            ],
+            "realmTags": [],
             "eggGroup": "",
             "rideable": "",
             "height": 0.55,
             "weight": 6.8,
+            "taxonomy": {
+                "domain": "",
+                "kingdom": "",
+                "phylum": "",
+                "class": "",
+                "order": "",
+                "family": "",
+                "genus": "",
+                "species": ""
+            },
+            "origin": "山猫",
             "image": "sprites/004.png",
             "shiny": [
                 "sprites/004_s.png"
@@ -506,10 +525,7 @@
                 "spDef": 43,
                 "spd": 71
             },
-            "evoTo": [
-                "005"
-            ],
-            "evoFrom": []
+            "rank": ""
         },
         {
             "id": "003",
@@ -647,7 +663,7 @@
                 "genus": "",
                 "species": ""
             },
-            "origin": "",
+            "origin": "鹿",
             "image": "sprites/001.png",
             "shiny": [
                 "sprites/001_s.png"
