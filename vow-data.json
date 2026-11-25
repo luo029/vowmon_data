@@ -27,14 +27,14 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "格斗",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "食肉目",
-                "family": "犬科",
-                "genus": "武犬属",
-                "species": "武豪种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "食肉",
+                "family": "犬",
+                "genus": "武犬",
+                "species": "武豪"
             },
-            "region": "",
+            "region": [],
             "origin": "",
             "image": "sprites/068.png",
             "shiny": [
@@ -94,12 +94,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "格斗",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "食肉目",
-                "family": "犬科",
-                "genus": "武犬属",
-                "species": "武豪种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "食肉",
+                "family": "犬",
+                "genus": "武犬",
+                "species": "武豪"
             }
         },
         {
@@ -143,12 +143,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "格斗",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "食肉目",
-                "family": "犬科",
-                "genus": "武犬属",
-                "species": "武豪种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "食肉",
+                "family": "犬",
+                "genus": "武犬",
+                "species": "武豪"
             }
         },
         {
@@ -179,14 +179,14 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "水",
-                "phylum": "脊索动物门",
-                "class": "鸟纲",
-                "order": "鹈形目",
-                "family": "鹈鹕科",
-                "genus": "随浪属",
-                "species": "浮水鸥种"
+                "phylum": "脊索动物",
+                "class": "鸟",
+                "order": "鹈形",
+                "family": "鹈鹕",
+                "genus": "随浪",
+                "species": "浮水鸥"
             },
-            "region": "",
+            "region": [],
             "origin": "宝可梦-大嘴鸥",
             "image": "sprites/279.png",
             "shiny": [
@@ -245,12 +245,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "水",
-                "phylum": "脊索动物门",
-                "class": "鸟纲",
-                "order": "鹈形目",
-                "family": "鹈鹕科",
-                "genus": "随浪属",
-                "species": "浮水鸥种"
+                "phylum": "脊索动物",
+                "class": "鸟",
+                "order": "鹈形",
+                "family": "鹈鹕",
+                "genus": "随浪",
+                "species": "浮水鸥"
             }
         },
         {
@@ -280,14 +280,14 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "虫",
-                "phylum": "节肢动物门",
-                "class": "昆虫纲",
-                "order": "直翅目",
-                "family": "蟋蟀科",
-                "genus": "鸣笙属",
-                "species": "鸣笙君种"
+                "phylum": "节肢动物",
+                "class": "昆虫",
+                "order": "直翅",
+                "family": "蟋蟀",
+                "genus": "鸣笙",
+                "species": "鸣笙君"
             },
-            "region": "",
+            "region": [],
             "origin": "宝可梦-音箱蟀",
             "image": "sprites/402.png",
             "shiny": [
@@ -331,12 +331,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "虫",
-                "phylum": "节肢动物门",
-                "class": "昆虫纲",
-                "order": "直翅目",
-                "family": "蟋蟀科",
-                "genus": "鸣笙属",
-                "species": "鸣笙君种"
+                "phylum": "节肢动物",
+                "class": "昆虫",
+                "order": "直翅",
+                "family": "蟋蟀",
+                "genus": "鸣笙",
+                "species": "鸣笙君"
             },
             "region": "",
             "origin": "宝可梦-圆法师",
@@ -382,14 +382,14 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "水",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "食肉目",
-                "family": "鼬科",
-                "genus": "沧水属",
-                "species": "沧水獭种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "食肉",
+                "family": "鼬",
+                "genus": "沧水",
+                "species": "沧水獭"
             },
-            "region": "",
+            "region": [],
             "origin": "",
             "image": "sprites/009.png",
             "shiny": [
@@ -449,12 +449,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "水",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "食肉目",
-                "family": "鼬科",
-                "genus": "沧水属",
-                "species": "沧水獭种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "食肉",
+                "family": "鼬",
+                "genus": "沧水",
+                "species": "沧水獭"
             }
         },
         {
@@ -484,12 +484,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "水",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "食肉目",
-                "family": "鼬科",
-                "genus": "沧水属",
-                "species": "沧水獭种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "食肉",
+                "family": "鼬",
+                "genus": "沧水",
+                "species": "沧水獭"
             },
             "origin": "水獭",
             "image": "sprites/007.png",
@@ -534,14 +534,14 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "火",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "食肉目",
-                "family": "猫科",
-                "genus": "焰猫属",
-                "species": "煌焰猫种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "食肉",
+                "family": "猫",
+                "genus": "焰猫",
+                "species": "煌焰猫"
             },
-            "region": "",
+            "region": [],
             "origin": "",
             "image": "sprites/006.png",
             "shiny": [
@@ -601,12 +601,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "火",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "食肉目",
-                "family": "猫科",
-                "genus": "焰猫属",
-                "species": "煌焰猫种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "食肉",
+                "family": "猫",
+                "genus": "焰猫",
+                "species": "煌焰猫"
             }
         },
         {
@@ -636,12 +636,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "火",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "食肉目",
-                "family": "猫科",
-                "genus": "焰猫属",
-                "species": "煌焰猫种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "食肉",
+                "family": "猫",
+                "genus": "焰猫",
+                "species": "煌焰猫"
             },
             "origin": "山猫",
             "image": "sprites/004.png",
@@ -686,14 +686,14 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "草",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "偶蹄目",
-                "family": "鹿科",
-                "genus": "森鹿属",
-                "species": "古森鹿种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "偶蹄",
+                "family": "鹿",
+                "genus": "森鹿",
+                "species": "古森鹿"
             },
-            "region": "",
+            "region": [],
             "origin": "",
             "image": "sprites/003.png",
             "shiny": [
@@ -739,12 +739,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "草",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "偶蹄目",
-                "family": "鹿科",
-                "genus": "森鹿属",
-                "species": "古森鹿种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "偶蹄",
+                "family": "鹿",
+                "genus": "森鹿",
+                "species": "古森鹿"
             },
             "origin": "",
             "image": "sprites/002.png",
@@ -789,12 +789,12 @@
             "taxonomy": {
                 "domain": "元",
                 "kingdom": "草",
-                "phylum": "脊索动物门",
-                "class": "哺乳纲",
-                "order": "偶蹄目",
-                "family": "鹿科",
-                "genus": "森鹿属",
-                "species": "古森鹿种"
+                "phylum": "脊索动物",
+                "class": "哺乳",
+                "order": "偶蹄",
+                "family": "鹿",
+                "genus": "森鹿",
+                "species": "古森鹿"
             },
             "origin": "鹿",
             "image": "sprites/001.png",
