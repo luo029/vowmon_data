@@ -1,683 +1,793 @@
 {
-    "vows": [
-        {
-            "id": "068",
-            "name": "武豪",
-            "types": [
-                "格斗"
-            ],
-            "stage": "三阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [
-                "067"
-            ],
-            "evoTo": [],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 1.9,
-            "weight": 132,
-            "origin": "",
-            "image": "sprites/068.png",
-            "shiny": [
-                "sprites/068_s.png"
-            ],
-            "description": "武中豪杰，长年淬炼而成的角质甲坚如精钢，尾锤砸落之时，大地都会为之震颤。传闻它一拳便可轰碎巨岩，这片土地的武者都以与它交手为荣。",
-            "stats": {
-                "hp": 90,
-                "atk": 130,
-                "def": 80,
-                "spAtk": 65,
-                "spDef": 85,
-                "spd": 55
-            }
-        },
-        {
-            "id": "067",
-            "name": "武徒",
-            "types": [
-                "格斗"
-            ],
-            "stage": "二阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [
-                "066"
-            ],
-            "evoTo": [
-                "068"
-            ],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 1.6,
-            "weight": 75,
-            "origin": "宝可梦-豪力",
-            "image": "sprites/067.png",
-            "shiny": [
-                "sprites/067_s.png"
-            ],
-            "description": "武道虔诚的学徒，鳞皮坚硬，可以格挡冲击，懂得调动全身配合拳脚发力。",
-            "stats": {
-                "hp": 80,
-                "atk": 100,
-                "def": 70,
-                "spAtk": 50,
-                "spDef": 60,
-                "spd": 45
-            }
-        },
-        {
-            "id": "066",
-            "name": "武小狗",
-            "types": [
-                "格斗"
-            ],
-            "stage": "一阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [],
-            "evoTo": [
-                "067"
-            ],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 0.8,
-            "weight": 19.6,
-            "origin": "宝可梦-腕力",
-            "image": "sprites/066.png",
-            "shiny": [
-                "sprites/066_s.png"
-            ],
-            "description": "依靠尾巴辅助站稳桩功，热爱练习武道。",
-            "stats": {
-                "hp": 70,
-                "atk": 80,
-                "def": 50,
-                "spAtk": 35,
-                "spDef": 35,
-                "spd": 30
-            }
-        },
-        {
-            "id": "279",
-            "name": "浮水鸥",
-            "types": [
-                "水",
-                "飞行"
-            ],
-            "stage": "二阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [
-                "278"
-            ],
-            "evoTo": [],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 1.3,
-            "weight": 29.9,
-            "origin": "宝可梦-大嘴鸥",
-            "image": "sprites/279.png",
-            "shiny": [
-                "sprites/279_s.png"
-            ],
-            "description": "平静时浮于碧波，遇风浪便扇翅而起，囊中可收纳幼鸟与食物。",
-            "stats": {
-                "hp": 60,
-                "atk": 50,
-                "def": 100,
-                "spAtk": 95,
-                "spDef": 70,
-                "spd": 61
-            }
-        },
-        {
-            "id": "278",
-            "name": "随浪鸥",
-            "types": [
-                "水",
-                "飞行"
-            ],
-            "stage": "一阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [],
-            "evoTo": [
-                "279"
-            ],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 0.6,
-            "weight": 9.9,
-            "origin": "宝可梦-长翅鸥",
-            "image": "sprites/278.png",
-            "shiny": [
-                "sprites/278_s.png"
-            ],
-            "description": "追随海潮之风远行，累了便浮在浪头休憩。",
-            "stats": {
-                "hp": 40,
-                "atk": 30,
-                "def": 30,
-                "spAtk": 55,
-                "spDef": 30,
-                "spd": 85
-            }
-        },
-        {
-            "id": "402",
-            "name": "鸣笙君",
-            "types": [
-                "草"
-            ],
-            "stage": "二阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [
-                "401"
-            ],
-            "evoTo": [],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 1.1,
-            "weight": 25.2,
-            "origin": "宝可梦-音箱蟀",
-            "image": "sprites/402.png",
-            "shiny": [
-                "sprites/402_s.png"
-            ],
-            "description": "栖于深林丘壑间吹奏笙乐，清风载着它的旋律传遍山野。",
-            "stats": {
-                "hp": 77,
-                "atk": 55,
-                "def": 51,
-                "spAtk": 85,
-                "spDef": 51,
-                "spd": 65
-            }
-        },
-        {
-            "id": "401",
-            "name": "圆笙童子",
-            "types": [
-                "草"
-            ],
-            "stage": "一阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [],
-            "evoTo": [
-                "402"
-            ],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 0.28,
-            "weight": 2.3,
-            "origin": "宝可梦-圆法师",
-            "image": "sprites/401.png",
-            "shiny": [
-                "sprites/401_s.png"
-            ],
-            "description": "圆滚滚的身子不善奔走，晃动触角时，便能吹出细碎柔和的笙声。",
-            "stats": {
-                "hp": 37,
-                "atk": 25,
-                "def": 41,
-                "spAtk": 25,
-                "spDef": 41,
-                "spd": 22
-            }
-        },
-        {
-            "id": "009",
-            "name": "沧水獭",
-            "types": [
-                "水"
-            ],
-            "stage": "三阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "eggGroup": "",
-            "rideable": "",
-            "height": 1.72,
-            "weight": 75.5,
-            "image": "sprites/009.png",
-            "shiny": [
-                "sprites/009_s.png"
-            ],
-            "description": "潜抱江海，不动而暗流自生。",
-            "stats": {
-                "hp": 85,
-                "atk": 89,
-                "def": 115,
-                "spAtk": 90,
-                "spDef": 115,
-                "spd": 55
-            },
-            "evoTo": [],
-            "evoFrom": [
-                "008"
-            ]
-        },
-        {
-            "id": "008",
-            "name": "浪浪獭",
-            "types": [
-                "水"
-            ],
-            "stage": "二阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [
-                "007"
-            ],
-            "evoTo": [
-                "009"
-            ],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 0.91,
-            "weight": 20.1,
-            "origin": "",
-            "image": "sprites/008.png",
-            "shiny": [
-                "sprites/008_s.png"
-            ],
-            "description": "尾巴划开水面，留下一串水泡轨迹。",
-            "stats": {
-                "hp": 65,
-                "atk": 63,
-                "def": 84,
-                "spAtk": 65,
-                "spDef": 84,
-                "spd": 55
-            }
-        },
-        {
-            "id": "007",
-            "name": "水珠獭",
-            "types": [
-                "水"
-            ],
-            "stage": "一阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [],
-            "evoTo": [
-                "008"
-            ],
-            "realmTags": [],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 0.52,
-            "weight": 6,
-            "taxonomy": {
-                "domain": "",
-                "kingdom": "",
-                "phylum": "",
-                "class": "",
-                "order": "",
-                "family": "",
-                "genus": "",
-                "species": ""
-            },
-            "origin": "水獭",
-            "image": "sprites/007.png",
-            "shiny": [
-                "sprites/007_s.png"
-            ],
-            "description": "水叶耳朵能感知水流与水下震动。",
-            "stats": {
-                "hp": 50,
-                "atk": 48,
-                "def": 64,
-                "spAtk": 50,
-                "spDef": 64,
-                "spd": 42
-            },
-            "rank": ""
-        },
-        {
-            "id": "006",
-            "name": "煌焰猫",
-            "types": [
-                "火"
-            ],
-            "stage": "三阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "eggGroup": "",
-            "rideable": "",
-            "height": 1.68,
-            "weight": 77.3,
-            "image": "sprites/006.png",
-            "shiny": [
-                "sprites/006_s.png"
-            ],
-            "description": "燃烧的鬃毛能产生灼热的冲击波，抬眼便引赤风横生。",
-            "stats": {
-                "hp": 74,
-                "atk": 115,
-                "def": 75,
-                "spAtk": 85,
-                "spDef": 75,
-                "spd": 126
-            },
-            "evoTo": [],
-            "evoFrom": [
-                "005"
-            ]
-        },
-        {
-            "id": "005",
-            "name": "炎炎猫",
-            "types": [
-                "火"
-            ],
-            "stage": "二阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "rank": "",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [
-                "004"
-            ],
-            "evoTo": [
-                "006"
-            ],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 0.98,
-            "weight": 22.3,
-            "origin": "",
-            "image": "sprites/005.png",
-            "shiny": [
-                "sprites/005_s.png"
-            ],
-            "description": "鬃毛般的火焰能向四周喷射火花。",
-            "stats": {
-                "hp": 54,
-                "atk": 82,
-                "def": 58,
-                "spAtk": 65,
-                "spDef": 58,
-                "spd": 86
-            }
-        },
-        {
-            "id": "004",
-            "name": "火绒猫",
-            "types": [
-                "火"
-            ],
-            "stage": "一阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [],
-            "evoTo": [
-                "005"
-            ],
-            "realmTags": [],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 0.55,
-            "weight": 6.8,
-            "taxonomy": {
-                "domain": "",
-                "kingdom": "",
-                "phylum": "",
-                "class": "",
-                "order": "",
-                "family": "",
-                "genus": "",
-                "species": ""
-            },
-            "origin": "山猫",
-            "image": "sprites/004.png",
-            "shiny": [
-                "sprites/004_s.png"
-            ],
-            "description": "激动时火星四溅，用尾巴保持平衡。",
-            "stats": {
-                "hp": 39,
-                "atk": 62,
-                "def": 43,
-                "spAtk": 50,
-                "spDef": 43,
-                "spd": 71
-            },
-            "rank": ""
-        },
-        {
-            "id": "003",
-            "name": "古森鹿",
-            "types": [
-                "草"
-            ],
-            "stage": "三阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [
-                "002"
-            ],
-            "evoTo": [],
-            "realmTags": [],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 2.75,
-            "weight": 152.3,
-            "taxonomy": {
-                "domain": "",
-                "kingdom": "",
-                "phylum": "",
-                "class": "",
-                "order": "",
-                "family": "",
-                "genus": "",
-                "species": ""
-            },
-            "origin": "",
-            "image": "sprites/003.png",
-            "shiny": [
-                "sprites/003_s.png"
-            ],
-            "description": "枝角承载着森林记忆，踏过之处，草木复苏。",
-            "stats": {
-                "hp": 79,
-                "atk": 85,
-                "def": 90,
-                "spAtk": 110,
-                "spDef": 110,
-                "spd": 75
-            },
-            "rank": ""
-        },
-        {
-            "id": "002",
-            "name": "青青鹿",
-            "types": [
-                "草"
-            ],
-            "stage": "二阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "ability": "",
-            "abilityEffect": "",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [
-                "001"
-            ],
-            "evoTo": [
-                "003"
-            ],
-            "realmTags": [],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 1.05,
-            "weight": 22.6,
-            "taxonomy": {
-                "domain": "",
-                "kingdom": "",
-                "phylum": "",
-                "class": "",
-                "order": "",
-                "family": "",
-                "genus": "",
-                "species": ""
-            },
-            "origin": "",
-            "image": "sprites/002.png",
-            "shiny": [
-                "sprites/002_s.png"
-            ],
-            "description": "枝叶随风摇曳，可释放催眠的花粉。",
-            "stats": {
-                "hp": 60,
-                "atk": 64,
-                "def": 64,
-                "spAtk": 85,
-                "spDef": 85,
-                "spd": 54
-            },
-            "rank": ""
-        },
-        {
-            "id": "001",
-            "name": "叶芽鹿",
-            "types": [
-                "草"
-            ],
-            "stage": "一阶",
-            "evoPos": "初始",
-            "form": "主形态",
-            "ability": "阳光涌动",
-            "abilityEffect": "晴天环境下，自身速度提升至2倍。",
-            "ability2": "",
-            "ability2Effect": "",
-            "hiddenAbility": "",
-            "hiddenAbilityEffect": "",
-            "evoFrom": [],
-            "evoTo": [
-                "002"
-            ],
-            "realmTags": [],
-            "eggGroup": "",
-            "rideable": "",
-            "height": 0.6,
-            "weight": 7.2,
-            "taxonomy": {
-                "domain": "",
-                "kingdom": "",
-                "phylum": "",
-                "class": "",
-                "order": "",
-                "family": "",
-                "genus": "",
-                "species": ""
-            },
-            "origin": "鹿",
-            "image": "sprites/001.png",
-            "shiny": [
-                "sprites/001_s.png"
-            ],
-            "description": "以嫩叶感知周围，生气时会抖落叶片。",
-            "stats": {
-                "hp": 45,
-                "atk": 49,
-                "def": 39,
-                "spAtk": 65,
-                "spDef": 65,
-                "spd": 49
-            },
-            "rank": ""
-        }
-    ]
+  "vows": [
+    {
+      "id": "068",
+      "name": "武豪",
+      "types": [
+        "格斗"
+      ],
+      "stage": "三阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [
+        "067"
+      ],
+      "evoTo": [],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 1.9,
+      "weight": 132,
+      "origin": "",
+      "image": "sprites/068.png",
+      "shiny": [
+        "sprites/068_s.png"
+      ],
+      "description": "武中豪杰，长年淬炼而成的角质甲坚如精钢，尾锤砸落之时，大地都会为之震颤。传闻它一拳便可轰碎巨岩，这片土地的武者都以与它交手为荣。",
+      "stats": {
+        "hp": 90,
+        "atk": 130,
+        "def": 80,
+        "spAtk": 65,
+        "spDef": 85,
+        "spd": 55
+      },
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "格斗",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "食肉目",
+        "family": "犬科",
+        "genus": "武犬属",
+        "species": "武豪种"
+      }
+    },
+    {
+      "id": "067",
+      "name": "武徒",
+      "types": [
+        "格斗"
+      ],
+      "stage": "二阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [
+        "066"
+      ],
+      "evoTo": [
+        "068"
+      ],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 1.6,
+      "weight": 75,
+      "origin": "宝可梦-豪力",
+      "image": "sprites/067.png",
+      "shiny": [
+        "sprites/067_s.png"
+      ],
+      "description": "武道虔诚的学徒，鳞皮坚硬，可以格挡冲击，懂得调动全身配合拳脚发力。",
+      "stats": {
+        "hp": 80,
+        "atk": 100,
+        "def": 70,
+        "spAtk": 50,
+        "spDef": 60,
+        "spd": 45
+      },
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "格斗",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "食肉目",
+        "family": "犬科",
+        "genus": "武犬属",
+        "species": "武豪种"
+      }
+    },
+    {
+      "id": "066",
+      "name": "武小狗",
+      "types": [
+        "格斗"
+      ],
+      "stage": "一阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [],
+      "evoTo": [
+        "067"
+      ],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 0.8,
+      "weight": 19.6,
+      "origin": "宝可梦-腕力",
+      "image": "sprites/066.png",
+      "shiny": [
+        "sprites/066_s.png"
+      ],
+      "description": "依靠尾巴辅助站稳桩功，热爱练习武道。",
+      "stats": {
+        "hp": 70,
+        "atk": 80,
+        "def": 50,
+        "spAtk": 35,
+        "spDef": 35,
+        "spd": 30
+      },
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "格斗",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "食肉目",
+        "family": "犬科",
+        "genus": "武犬属",
+        "species": "武豪种"
+      }
+    },
+    {
+      "id": "279",
+      "name": "浮水鸥",
+      "types": [
+        "水",
+        "飞行"
+      ],
+      "stage": "二阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [
+        "278"
+      ],
+      "evoTo": [],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 1.3,
+      "weight": 29.9,
+      "origin": "宝可梦-大嘴鸥",
+      "image": "sprites/279.png",
+      "shiny": [
+        "sprites/279_s.png"
+      ],
+      "description": "平静时浮于碧波，遇风浪便扇翅而起，囊中可收纳幼鸟与食物。",
+      "stats": {
+        "hp": 60,
+        "atk": 50,
+        "def": 100,
+        "spAtk": 95,
+        "spDef": 70,
+        "spd": 61
+      },
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "水",
+        "phylum": "脊索动物门",
+        "class": "鸟纲",
+        "order": "鹈形目",
+        "family": "鹈鹕科",
+        "genus": "随浪属",
+        "species": "浮水鸥种"
+      }
+    },
+    {
+      "id": "278",
+      "name": "随浪鸥",
+      "types": [
+        "水",
+        "飞行"
+      ],
+      "stage": "一阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [],
+      "evoTo": [
+        "279"
+      ],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 0.6,
+      "weight": 9.9,
+      "origin": "宝可梦-长翅鸥",
+      "image": "sprites/278.png",
+      "shiny": [
+        "sprites/278_s.png"
+      ],
+      "description": "追随海潮之风远行，累了便浮在浪头休憩。",
+      "stats": {
+        "hp": 40,
+        "atk": 30,
+        "def": 30,
+        "spAtk": 55,
+        "spDef": 30,
+        "spd": 85
+      },
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "水",
+        "phylum": "脊索动物门",
+        "class": "鸟纲",
+        "order": "鹈形目",
+        "family": "鹈鹕科",
+        "genus": "随浪属",
+        "species": "浮水鸥种"
+      }
+    },
+    {
+      "id": "402",
+      "name": "鸣笙君",
+      "types": [
+        "草"
+      ],
+      "stage": "二阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [
+        "401"
+      ],
+      "evoTo": [],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 1.1,
+      "weight": 25.2,
+      "origin": "宝可梦-音箱蟀",
+      "image": "sprites/402.png",
+      "shiny": [
+        "sprites/402_s.png"
+      ],
+      "description": "栖于深林丘壑间吹奏笙乐，清风载着它的旋律传遍山野。",
+      "stats": {
+        "hp": 77,
+        "atk": 55,
+        "def": 51,
+        "spAtk": 85,
+        "spDef": 51,
+        "spd": 65
+      },
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "草",
+        "phylum": "节肢动物门",
+        "class": "昆虫纲",
+        "order": "直翅目",
+        "family": "蟋蟀科",
+        "genus": "鸣笙属",
+        "species": "鸣笙君种"
+      }
+    },
+    {
+      "id": "401",
+      "name": "圆笙童子",
+      "types": [
+        "草"
+      ],
+      "stage": "一阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [],
+      "evoTo": [
+        "402"
+      ],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 0.28,
+      "weight": 2.3,
+      "origin": "宝可梦-圆法师",
+      "image": "sprites/401.png",
+      "shiny": [
+        "sprites/401_s.png"
+      ],
+      "description": "圆滚滚的身子不善奔走，晃动触角时，便能吹出细碎柔和的笙声。",
+      "stats": {
+        "hp": 37,
+        "atk": 25,
+        "def": 41,
+        "spAtk": 25,
+        "spDef": 41,
+        "spd": 22
+      },
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "草",
+        "phylum": "节肢动物门",
+        "class": "昆虫纲",
+        "order": "直翅目",
+        "family": "蟋蟀科",
+        "genus": "鸣笙属",
+        "species": "鸣笙君种"
+      }
+    },
+    {
+      "id": "009",
+      "name": "沧水獭",
+      "types": [
+        "水"
+      ],
+      "stage": "三阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "eggGroup": "",
+      "rideable": "",
+      "height": 1.72,
+      "weight": 75.5,
+      "image": "sprites/009.png",
+      "shiny": [
+        "sprites/009_s.png"
+      ],
+      "description": "潜抱江海，不动而暗流自生。",
+      "stats": {
+        "hp": 85,
+        "atk": 89,
+        "def": 115,
+        "spAtk": 90,
+        "spDef": 115,
+        "spd": 55
+      },
+      "evoTo": [],
+      "evoFrom": [
+        "008"
+      ],
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "水",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "食肉目",
+        "family": "鼬科",
+        "genus": "沧水属",
+        "species": "沧水獭种"
+      }
+    },
+    {
+      "id": "008",
+      "name": "浪浪獭",
+      "types": [
+        "水"
+      ],
+      "stage": "二阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [
+        "007"
+      ],
+      "evoTo": [
+        "009"
+      ],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 0.91,
+      "weight": 20.1,
+      "origin": "",
+      "image": "sprites/008.png",
+      "shiny": [
+        "sprites/008_s.png"
+      ],
+      "description": "尾巴划开水面，留下一串水泡轨迹。",
+      "stats": {
+        "hp": 65,
+        "atk": 63,
+        "def": 84,
+        "spAtk": 65,
+        "spDef": 84,
+        "spd": 55
+      },
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "水",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "食肉目",
+        "family": "鼬科",
+        "genus": "沧水属",
+        "species": "沧水獭种"
+      }
+    },
+    {
+      "id": "007",
+      "name": "水珠獭",
+      "types": [
+        "水"
+      ],
+      "stage": "一阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [],
+      "evoTo": [
+        "008"
+      ],
+      "realmTags": [],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 0.52,
+      "weight": 6,
+      "origin": "水獭",
+      "image": "sprites/007.png",
+      "shiny": [
+        "sprites/007_s.png"
+      ],
+      "description": "水叶耳朵能感知水流与水下震动。",
+      "stats": {
+        "hp": 50,
+        "atk": 48,
+        "def": 64,
+        "spAtk": 50,
+        "spDef": 64,
+        "spd": 42
+      },
+      "rank": "",
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "水",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "食肉目",
+        "family": "鼬科",
+        "genus": "沧水属",
+        "species": "沧水獭种"
+      }
+    },
+    {
+      "id": "006",
+      "name": "煌焰猫",
+      "types": [
+        "火"
+      ],
+      "stage": "三阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "eggGroup": "",
+      "rideable": "",
+      "height": 1.68,
+      "weight": 77.3,
+      "image": "sprites/006.png",
+      "shiny": [
+        "sprites/006_s.png"
+      ],
+      "description": "燃烧的鬃毛能产生灼热的冲击波，抬眼便引赤风横生。",
+      "stats": {
+        "hp": 74,
+        "atk": 115,
+        "def": 75,
+        "spAtk": 85,
+        "spDef": 75,
+        "spd": 126
+      },
+      "evoTo": [],
+      "evoFrom": [
+        "005"
+      ],
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "火",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "食肉目",
+        "family": "猫科",
+        "genus": "焰猫属",
+        "species": "煌焰猫种"
+      }
+    },
+    {
+      "id": "005",
+      "name": "炎炎猫",
+      "types": [
+        "火"
+      ],
+      "stage": "二阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "rank": "",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [
+        "004"
+      ],
+      "evoTo": [
+        "006"
+      ],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 0.98,
+      "weight": 22.3,
+      "origin": "",
+      "image": "sprites/005.png",
+      "shiny": [
+        "sprites/005_s.png"
+      ],
+      "description": "鬃毛般的火焰能向四周喷射火花。",
+      "stats": {
+        "hp": 54,
+        "atk": 82,
+        "def": 58,
+        "spAtk": 65,
+        "spDef": 58,
+        "spd": 86
+      },
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "火",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "食肉目",
+        "family": "猫科",
+        "genus": "焰猫属",
+        "species": "煌焰猫种"
+      }
+    },
+    {
+      "id": "004",
+      "name": "火绒猫",
+      "types": [
+        "火"
+      ],
+      "stage": "一阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [],
+      "evoTo": [
+        "005"
+      ],
+      "realmTags": [],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 0.55,
+      "weight": 6.8,
+      "origin": "山猫",
+      "image": "sprites/004.png",
+      "shiny": [
+        "sprites/004_s.png"
+      ],
+      "description": "激动时火星四溅，用尾巴保持平衡。",
+      "stats": {
+        "hp": 39,
+        "atk": 62,
+        "def": 43,
+        "spAtk": 50,
+        "spDef": 43,
+        "spd": 71
+      },
+      "rank": "",
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "火",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "食肉目",
+        "family": "猫科",
+        "genus": "焰猫属",
+        "species": "煌焰猫种"
+      }
+    },
+    {
+      "id": "003",
+      "name": "古森鹿",
+      "types": [
+        "草"
+      ],
+      "stage": "三阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [
+        "002"
+      ],
+      "evoTo": [],
+      "realmTags": [],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 2.75,
+      "weight": 152.3,
+      "origin": "",
+      "image": "sprites/003.png",
+      "shiny": [
+        "sprites/003_s.png"
+      ],
+      "description": "枝角承载着森林记忆，踏过之处，草木复苏。",
+      "stats": {
+        "hp": 79,
+        "atk": 85,
+        "def": 90,
+        "spAtk": 110,
+        "spDef": 110,
+        "spd": 75
+      },
+      "rank": "",
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "草",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "偶蹄目",
+        "family": "鹿科",
+        "genus": "森鹿属",
+        "species": "古森鹿种"
+      }
+    },
+    {
+      "id": "002",
+      "name": "青青鹿",
+      "types": [
+        "草"
+      ],
+      "stage": "二阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "ability": "",
+      "abilityEffect": "",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [
+        "001"
+      ],
+      "evoTo": [
+        "003"
+      ],
+      "realmTags": [],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 1.05,
+      "weight": 22.6,
+      "origin": "",
+      "image": "sprites/002.png",
+      "shiny": [
+        "sprites/002_s.png"
+      ],
+      "description": "枝叶随风摇曳，可释放催眠的花粉。",
+      "stats": {
+        "hp": 60,
+        "atk": 64,
+        "def": 64,
+        "spAtk": 85,
+        "spDef": 85,
+        "spd": 54
+      },
+      "rank": "",
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "草",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "偶蹄目",
+        "family": "鹿科",
+        "genus": "森鹿属",
+        "species": "古森鹿种"
+      }
+    },
+    {
+      "id": "001",
+      "name": "叶芽鹿",
+      "types": [
+        "草"
+      ],
+      "stage": "一阶",
+      "evoPos": "初始",
+      "form": "主形态",
+      "ability": "阳光涌动",
+      "abilityEffect": "晴天环境下，自身速度提升至2倍。",
+      "ability2": "",
+      "ability2Effect": "",
+      "hiddenAbility": "",
+      "hiddenAbilityEffect": "",
+      "evoFrom": [],
+      "evoTo": [
+        "002"
+      ],
+      "realmTags": [],
+      "eggGroup": "",
+      "rideable": "",
+      "height": 0.6,
+      "weight": 7.2,
+      "origin": "鹿",
+      "image": "sprites/001.png",
+      "shiny": [
+        "sprites/001_s.png"
+      ],
+      "description": "以嫩叶感知周围，生气时会抖落叶片。",
+      "stats": {
+        "hp": 45,
+        "atk": 49,
+        "def": 39,
+        "spAtk": 65,
+        "spDef": 65,
+        "spd": 49
+      },
+      "rank": "",
+      "taxonomy": {
+        "domain": "元",
+        "kingdom": "草",
+        "phylum": "脊索动物门",
+        "class": "哺乳纲",
+        "order": "偶蹄目",
+        "family": "鹿科",
+        "genus": "森鹿属",
+        "species": "古森鹿种"
+      }
+    }
+  ]
 }
