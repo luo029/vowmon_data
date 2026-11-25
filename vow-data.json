@@ -203,7 +203,7 @@
             "id": "402",
             "name": "鸣笙君",
             "types": [
-                "草"
+                "虫"
             ],
             "stage": "二阶",
             "evoPos": "初始",
@@ -223,6 +223,16 @@
             "rideable": "",
             "height": 1.1,
             "weight": 25.2,
+            "taxonomy": {
+                "domain": "",
+                "kingdom": "",
+                "phylum": "",
+                "class": "",
+                "order": "",
+                "family": "",
+                "genus": "",
+                "species": ""
+            },
             "origin": "宝可梦-音箱蟀",
             "image": "sprites/402.png",
             "shiny": [
@@ -242,7 +252,7 @@
             "id": "401",
             "name": "圆笙童子",
             "types": [
-                "草"
+                "虫"
             ],
             "stage": "一阶",
             "evoPos": "初始",
@@ -262,6 +272,16 @@
             "rideable": "",
             "height": 0.28,
             "weight": 2.3,
+            "taxonomy": {
+                "domain": "",
+                "kingdom": "",
+                "phylum": "",
+                "class": "",
+                "order": "",
+                "family": "",
+                "genus": "",
+                "species": ""
+            },
             "origin": "宝可梦-圆法师",
             "image": "sprites/401.png",
             "shiny": [
@@ -473,15 +493,24 @@
             "rank": "",
             "ability": "",
             "abilityEffect": "",
+            "ability2": "",
+            "ability2Effect": "",
+            "hiddenAbility": "",
+            "hiddenAbilityEffect": "",
+            "evoFrom": [],
+            "evoTo": [
+                "005"
+            ],
             "eggGroup": "",
             "rideable": "",
             "height": 0.55,
             "weight": 6.8,
+            "origin": "",
             "image": "sprites/004.png",
             "shiny": [
                 "sprites/004_s.png"
             ],
-            "description": "激动时火星四溅，用尾巴保持平衡。",
+            "description": "激动时火星四溅，尾巴被火焰包围了起来。",
             "stats": {
                 "hp": 39,
                 "atk": 62,
@@ -489,11 +518,7 @@
                 "spAtk": 50,
                 "spDef": 43,
                 "spd": 71
-            },
-            "evoTo": [
-                "005"
-            ],
-            "evoFrom": []
+            }
         },
         {
             "id": "003",
