@@ -862,7 +862,7 @@
   },
   "trainers.c15": {
    "label": "等级与契约对照表 · td #10",
-   "html": "<span class=\"pet-tag\">初灵 1-15</span>"
+   "html": "<span class=\"vow-tag\">初灵 1-15</span>"
   },
   "trainers.c17": {
    "label": "等级与契约对照表 · td #12",
@@ -886,7 +886,7 @@
   },
   "trainers.c23": {
    "label": "等级与契约对照表 · td #18",
-   "html": "<span class=\"pet-tag\">升灵 16-36</span>"
+   "html": "<span class=\"vow-tag\">升灵 16-36</span>"
   },
   "trainers.c25": {
    "label": "等级与契约对照表 · td #20",
@@ -910,7 +910,7 @@
   },
   "trainers.c31": {
    "label": "等级与契约对照表 · td #26",
-   "html": "<span class=\"pet-tag\">族尊 37-50</span>"
+   "html": "<span class=\"vow-tag\">族尊 37-50</span>"
   },
   "trainers.c33": {
    "label": "等级与契约对照表 · td #28",
@@ -934,7 +934,7 @@
   },
   "trainers.c39": {
    "label": "等级与契约对照表 · td #34",
-   "html": "<span class=\"pet-tag\">基座 51-60</span>"
+   "html": "<span class=\"vow-tag\">基座 51-60</span>"
   },
   "trainers.c41": {
    "label": "等级与契约对照表 · td #36",
@@ -958,7 +958,7 @@
   },
   "trainers.c47": {
    "label": "等级与契约对照表 · td #42",
-   "html": "<span class=\"pet-tag\">灵相 61-70</span>"
+   "html": "<span class=\"vow-tag\">灵相 61-70</span>"
   },
   "trainers.c49": {
    "label": "等级与契约对照表 · td #44",
@@ -982,7 +982,7 @@
   },
   "trainers.c55": {
    "label": "等级与契约对照表 · td #50",
-   "html": "<span class=\"pet-tag\">律冠 71-89</span>"
+   "html": "<span class=\"vow-tag\">律冠 71-89</span>"
   },
   "trainers.c57": {
    "label": "等级与契约对照表 · td #52",
@@ -1006,7 +1006,7 @@
   },
   "trainers.c63": {
    "label": "等级与契约对照表 · td #58",
-   "html": "<span class=\"pet-tag\">元灵 90-99</span>"
+   "html": "<span class=\"vow-tag\">元灵 90-99</span>"
   },
   "trainers.c65": {
    "label": "等级与契约对照表 · td #60",
