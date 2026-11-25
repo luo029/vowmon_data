@@ -1,0 +1,52 @@
+{
+ "stages": [
+  {
+   "name": "初灵",
+   "min": 1,
+   "max": 15,
+   "color": "#8bc34a"
+  },
+  {
+   "name": "升灵",
+   "min": 16,
+   "max": 35,
+   "color": "#26a69a"
+  },
+  {
+   "name": "族尊",
+   "min": 36,
+   "max": 50,
+   "color": "#5c6bc0"
+  },
+  {
+   "name": "基座",
+   "min": 51,
+   "max": 60,
+   "color": "#ba7517"
+  },
+  {
+   "name": "灵相",
+   "min": 61,
+   "max": 70,
+   "color": "#1971c2"
+  },
+  {
+   "name": "律冠",
+   "min": 71,
+   "max": 89,
+   "color": "#7048e8"
+  },
+  {
+   "name": "元灵",
+   "min": 90,
+   "max": 99,
+   "color": "#d4a017"
+  },
+  {
+   "name": "元",
+   "min": 100,
+   "max": null,
+   "color": "#e24b4a"
+  }
+ ]
+}
